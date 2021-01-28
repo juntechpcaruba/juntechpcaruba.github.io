@@ -1,9 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
-
-
-
-
 .btn {
   border-width: 2px;
 }
@@ -11,7 +7,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Aaargh';
   font-size: 4.8rem;
   line-height: 1.1;
 }
@@ -19,7 +15,7 @@ body {
   font-size: 6rem;
 }
 .display-2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Aaargh';
   font-size: 2.5rem;
   line-height: 1.1;
 }
@@ -27,7 +23,7 @@ body {
   font-size: 3.125rem;
 }
 .display-4 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'JosefinSans-Regular';
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -43,7 +39,7 @@ body {
   font-size: 2.25rem;
 }
 .display-7 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'JosefinSans-Regular';
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -595,7 +591,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'JosefinSans-Regular';
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -609,7 +605,7 @@ a:hover {
   border-color: #0684ff !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'JosefinSans-Regular';
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -1065,6 +1061,7 @@ a {
 }
 .cid-s8ohHHJEdU .mbr-text {
   text-align: center;
+  color: #232323;
 }
 .cid-s8ohHHJEdU .mbr-section-subtitle {
   text-align: center;
@@ -1119,6 +1116,7 @@ a {
 }
 .cid-smrlSf6agG .mbr-text {
   text-align: center;
+  color: #232323;
 }
 .cid-smrlSf6agG .mbr-section-subtitle {
   text-align: center;
@@ -1151,6 +1149,7 @@ a {
 }
 .cid-sbAJ0P1gjg .mbr-text {
   text-align: center;
+  color: #232323;
 }
 .cid-sbAJ0P1gjg .mbr-section-subtitle {
   text-align: center;
@@ -1200,6 +1199,7 @@ a {
 }
 .cid-si3ZTO1dZQ .mbr-text {
   text-align: center;
+  color: #232323;
 }
 .cid-si3ZTO1dZQ .mbr-section-subtitle {
   text-align: center;
