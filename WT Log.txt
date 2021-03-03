@@ -1,0 +1,172 @@
+	Website Auto Traffic Generator Ultimate v7.4 Log     2/19/2021 10:35:40 AM
+================================================================
+
+Configuration Details [SEO General Traffic]
+--------------------------------------------
+Max Page traffic: (Total traffic) = 10000
+Session duration: Variable (Random time in 3500ms and 6000ms)
+Platform switching: Random switching for each page visit
+Page selection order: Random selection at each time
+Page repeatation: 2 times
+Proxy (Different geo location): Enabled;   Mode: Time based switching (Random time in 5000ms and 5000ms)
+Select proxy randomly: Enabled
+Traffic engine: Engine 2 (Chromium)
+Auto clear log: Enabled
+
+Traffic: 1 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Mozilla Firefox-77.0; OS/Device:Windows-Windows 
+Current session duration: 5879ms
+Current proxy: NA
+
+Traffic: 2
+Current page: https://juntechpc.ga/
+Current platform: Browser: Mozilla Firefox-77.0; OS/Device:Windows-Windows 
+Current session duration: 4243ms
+Current proxy: 169.57.157.146:8123
+-> Next proxy switch time: 5000ms
+
+Traffic: 3 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Google Chrome-83.0.4103.61; OS/Device:Windows-Windows 
+Current session duration: 3843ms
+Current proxy: 143.110.220.194:8080
+-> Next proxy switch time: 5000ms
+
+Traffic: 4
+Current page: https://juntechpc.ga/
+Current platform: Browser: Google Chrome-83.0.4103.61; OS/Device:Windows-Windows 
+Current session duration: 5302ms
+Current proxy: 143.110.220.194:8080
+
+Traffic: 5
+Current page: https://juntechpc.ga/
+Current platform: Browser: Google Chrome-83.0.4103.61; OS/Device:Windows-Windows 
+Current session duration: 3578ms
+Current proxy: 191.96.71.118:3128
+-> Next proxy switch time: 5000ms
+
+Traffic: 6
+Current page: https://juntechpc.ga/
+Current platform: Browser: Google Chrome-83.0.4103.61; OS/Device:Windows-Windows 
+Current session duration: 4398ms
+Current proxy: 191.96.71.118:3128
+
+Traffic: 7 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Internet Explorer-11.0.190; OS/Device:Windows-Windows 
+Current session duration: 3915ms
+Current proxy: 161.202.226.194:8123
+-> Next proxy switch time: 5000ms
+
+Traffic: 8
+Current page: https://juntechpc.ga/
+Current platform: Browser: Internet Explorer-11.0.190; OS/Device:Windows-Windows 
+Current session duration: 5221ms
+Current proxy: 161.202.226.194:8123
+
+Traffic: 9 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Google Chrome-83.0.4103.61; OS/Device:Windows-Windows 
+Current session duration: 4921ms
+Current proxy: 103.110.11.122:8080
+-> Next proxy switch time: 5000ms
+
+Traffic: 10
+Current page: https://juntechpc.ga/
+Current platform: Browser: Google Chrome-83.0.4103.61; OS/Device:Windows-Windows 
+Current session duration: 4993ms
+Current proxy: 103.110.11.122:8080
+
+Traffic: 11 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Mozilla Firefox-77.0; OS/Device:Windows-Windows 
+Current session duration: 4527ms
+Current proxy: 95.38.171.201:8080
+-> Next proxy switch time: 5000ms
+
+Traffic: 12
+Current page: https://juntechpc.ga/
+Current platform: Browser: Mozilla Firefox-77.0; OS/Device:Windows-Windows 
+Current session duration: 4645ms
+Current proxy: 95.38.171.201:8080
+
+Traffic: 13 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Yandex Browser-20.4.2.197; OS/Device:Android-Android 
+Current session duration: 3954ms
+Current proxy: 93.115.233.136:8080
+-> Next proxy switch time: 5000ms
+
+Traffic: 14
+Current page: https://juntechpc.ga/
+Current platform: Browser: Yandex Browser-20.4.2.197; OS/Device:Android-Android 
+Current session duration: 3669ms
+Current proxy: 93.115.233.136:8080
+
+Traffic: 15 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Yandex Browser-20.4.2.197; OS/Device:Windows-Windows 
+Current session duration: 3891ms
+Current proxy: 169.57.157.148:80
+-> Next proxy switch time: 5000ms
+
+Traffic: 16
+Current page: https://juntechpc.ga/
+Current platform: Browser: Yandex Browser-20.4.2.197; OS/Device:Windows-Windows 
+Current session duration: 5552ms
+Current proxy: 169.57.157.148:80
+
+Traffic: 17 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Edge-15.15063; OS/Device:Windows-Windows 
+Current session duration: 4278ms
+Current proxy: 154.16.202.22:8080
+-> Next proxy switch time: 5000ms
+
+Traffic: 18
+Current page: https://juntechpc.ga/
+Current platform: Browser: Edge-15.15063; OS/Device:Windows-Windows 
+Current session duration: 5043ms
+Current proxy: 154.16.202.22:8080
+
+Traffic: 19 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Yandex Browser-20.4.2.197; OS/Device:iPad-iPad 
+Current session duration: 4206ms
+Current proxy: 93.115.233.136:8080
+-> Next proxy switch time: 5000ms
+
+Traffic: 20
+Current page: https://juntechpc.ga/
+Current platform: Browser: Yandex Browser-20.4.2.197; OS/Device:iPad-iPad 
+Current session duration: 5831ms
+Current proxy: 93.115.233.136:8080
+
+Traffic: 21
+Current page: https://juntechpc.ga/
+Current platform: Browser: Yandex Browser-20.4.2.197; OS/Device:iPad-iPad 
+Current session duration: 4896ms
+Current proxy: 163.172.93.129:3128
+-> Next proxy switch time: 5000ms
+
+Traffic: 22
+Current page: https://juntechpc.ga/
+Current platform: Browser: Yandex Browser-20.4.2.197; OS/Device:iPad-iPad 
+Current session duration: 3767ms
+Current proxy: 163.172.93.129:3128
+
+Traffic: 23 (New Session)
+Current page: https://juntechpc.ga/
+Current platform: Browser: Google Chrome-83.0.4103.61; OS/Device:Windows-Windows 
+Current session duration: 5935ms
+Current proxy: 34.203.142.175:80
+-> Next proxy switch time: 5000ms
+
+Traffic: 24
+Current page: https://juntechpc.ga/
+Current platform: Browser: Google Chrome-83.0.4103.61; OS/Device:Windows-Windows 
+Current session duration: 4997ms
+Current proxy: 34.203.142.175:80
+
+
