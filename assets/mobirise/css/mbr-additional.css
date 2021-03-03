@@ -17997,38 +17997,6 @@ a {
 .cid-sh4oM8frn5 .mbr-text {
   color: #000000;
 }
-.cid-sjVNpJ4G4O {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sjVNpJ4G4O .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sjVNpJ4G4O .row {
-  flex-direction: row-reverse;
-}
-.cid-sjVNpJ4G4O img {
-  width: 100%;
-}
-.cid-sjVyvbz8Ee {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sjVyvbz8Ee .mbr-text {
-  text-align: center;
-}
-.cid-sjVyvbz8Ee .mbr-section-subtitle {
-  text-align: center;
-  color: #000000;
-}
-.cid-sjVyvbz8Ee .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
 .cid-sh6i0rNwks {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -29782,58 +29750,9 @@ a {
 .cid-sjyX383a7C .social-list {
   color: #000000;
 }
-.cid-skDNAXiI0A {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-skDNAXiI0A .mbr-text {
-  text-align: center;
-}
-.cid-skDNAXiI0A .mbr-section-subtitle {
-  text-align: center;
-  color: #000000;
-}
-.cid-skDNAXiI0A .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
-.cid-sjyX39HYzN {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-sjyX39HYzN [class^="socicon-"]:before,
-.cid-sjyX39HYzN [class*=" socicon-"]:before {
-  line-height: 55px;
-}
-.cid-sjyX39HYzN .btn-social {
-  font-size: 32px;
-  border-radius: 50%;
-  width: 55px;
-  height: 55px;
-  line-height: 55px;
-  padding: 0;
-  position: relative;
-  cursor: pointer;
-  color: #0684ff;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #0684ff;
-}
-.cid-sjyX39HYzN .btn-social:hover {
-  background: #0684ff;
-}
-.cid-sjyX39HYzN .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-.cid-sjyX39HYzN .mbr-section-title,
-.cid-sjyX39HYzN .mbr-social-likes {
-  color: #000000;
-}
 .cid-sk7sBvM6Hd {
   padding-top: 1rem;
-  padding-bottom: 0rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-sk7sBvM6Hd .item:focus,
@@ -29884,6 +29803,27 @@ a {
 }
 .cid-sk7sBvM6Hd .item-subtitle {
   text-align: left;
+}
+.cid-sqCoFf4RTP {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sqCoFf4RTP .mbr-text {
+  text-align: center;
+}
+.cid-sqCoFf4RTP .mbr-section-subtitle {
+  text-align: center;
+  color: #000000;
+}
+.cid-sqCoFf4RTP .mbr-section-title {
+  text-align: center;
+  color: #000000;
+}
+.cid-sqCvu93l2g {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
 }
 .cid-smoKy9Rrh3 {
   padding-top: 1rem;
