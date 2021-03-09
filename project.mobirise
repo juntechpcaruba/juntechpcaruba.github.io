@@ -66,7 +66,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 1002,
+    "uniqCompNum": 1004,
     "versionPublish": "5.3.2",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -84,7 +84,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C4Y01HT04Z\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C4Y01HT04Z');\n</script>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\", \n  \"@type\": \"BreadcrumbList\", \n  \"itemListElement\": [{\n    \"@type\": \"ListItem\", \n    \"position\": 1, \n    \"name\": \"JunTechPC - Computer Services and Web Solutions Aruba\",\n    \"item\": \"https://juntechpc.ga/\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 2, \n    \"name\": \"JunTechPC - About Us and What We Do\",\n    \"item\": \"https://juntechpc.ga/about-juntechpc-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 3, \n    \"name\": \"JunTechPC - Services and Support in Aruba\",\n    \"item\": \"https://juntechpc.ga/juntechpc-services-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 4, \n    \"name\": \"JunTechPC - Get Service and Support Today!\",\n    \"item\": \"https://juntechpc.ga/contact-juntechpc-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 5, \n    \"name\": \"JunTechPC - SUPPORTS YOU DURING COVID-19\",\n    \"item\": \"https://juntechpc.ga/juntechpc-aruba-covid-19\"  \n  }]\n}\n</script>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Person\",\n  \"name\": \"Juny Engelhart\",\n  \"url\": \"https://juntechpc.ga/about-juntechpc-aruba\",\n  \"image\": \"https://twitter.com/juntechpc/photo\",\n  \"sameAs\": \"https://juntechpc.ga/\",\n  \"jobTitle\": \"Website Designer, Computer Technician\",\n  \"worksFor\": {\n    \"@type\": \"Organization\",\n    \"name\": \"JunTechPC Aruba\"\n  }  \n}\n</script>",
     "publishChangesOnly": true,
-    "mbrsiteDomain": "cfzkp3q9d8",
+    "mbrsiteDomain": "lfvd20ei9n",
     "witsec-language": "en",
     "witsec-mailform": false,
     "witsec-white-label": true
@@ -1764,7 +1764,7 @@
     },
     "contact-juntechpc-aruba.html": {
       "settings": {
-        "title": "Contact Us for Service and Support! - JunTechPC ",
+        "title": "Contact Us for Service and Support! - JunTechPC Aruba",
         "order": 26,
         "meta_descr": "Need Computer Repair, Web Design or SEO Services? JunTechPC can help! We look forward to providing our customers with continued excellent service and support in Aruba.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-customer-tech-support-1-423x334.png"
@@ -5044,7 +5044,7 @@
     },
     "juntechpc-aruba-covid-19.html": {
       "settings": {
-        "title": "JunTechPC - Services and Support During COVID-19",
+        "title": "JunTechPC Aruba - Services and Support During COVID-19",
         "order": 28,
         "meta_descr": "We’re taking the necessary steps to maintain the well being of both our customers and ourselves. JunTechPC will continue to provide support to our existing and new clients in Aruba. ",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-covid-19-supporting-customers-560x500.png"
@@ -6649,7 +6649,7 @@
     },
     "juntechpc-seo-webdesign-faqs..html": {
       "settings": {
-        "title": "JunTechPC -  FAQ's on Web Design and SEO",
+        "title": "JunTechPC Aruba -  FAQ's on Web Design and SEO",
         "order": 27,
         "meta_descr": "I cover many of the common questions that clients have asked me about Website Design over the years. Contact us to get your website up and running!",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-faqs-webdesign-seo-services-545x309.png"
@@ -8385,7 +8385,7 @@
     },
     "seo-services-aruba.html": {
       "settings": {
-        "title": "Search Engine Optimization Services - JunTechPC",
+        "title": "Search Engine Optimization Services - JunTechPC Aruba",
         "order": 9,
         "meta_descr": "Search engine optimization SEO, is the process of achieving better search engine rankings and more traffic, with the ultimate goal of generating more business. Take a look at the SEO services we offer!",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-seo-service-solutions-aruba-1-642x438.png"
@@ -10215,7 +10215,7 @@
     },
     "juntechpc-services-aruba.html": {
       "settings": {
-        "title": "Computer and Web Services - JunTechPC",
+        "title": "Computer and Web Services - JunTechPC Aruba",
         "order": 5,
         "meta_descr": "We provide a wide range of services including Website Design, SEO Services, Computer Repair and Support for small business in Aruba. We’ll tailor our services to fit your needs and your budget. ",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-take-a-look-at-our-services-aruba-1063x788.png"
@@ -11900,7 +11900,7 @@
     },
     "technical-seo-audit-aruba.html": {
       "settings": {
-        "title": "JunTechPC - Technical SEO Audits",
+        "title": "JunTechPC Aruba - Technical SEO Audits",
         "order": 23,
         "meta_descr": "Technical Site Audits bring to light any problem that’s preventing your website from ranking higher in search results and directing more organic traffic to your landing pages.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-seo-website-audit-aruba-2-508x385.png"
@@ -13585,7 +13585,7 @@
     },
     "on-page-off-page-seo-services.html": {
       "settings": {
-        "title": "JunTechPC - On-Page and Off-Page SEO",
+        "title": "JunTechPC Aruba - On-Page and Off-Page SEO",
         "order": 20,
         "meta_descr": "Optimizing Your Site’s SEO for Maximum Results. When we talk about search engine optimization, we need to discuss two of the main components, which are Off-page and On-page SEO services.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-off-page-seo-optimization-2-508x385.png"
@@ -15338,7 +15338,7 @@
     },
     "keyword-research-services.html": {
       "settings": {
-        "title": "JunTechPC - Keyword Research and Planning",
+        "title": "JunTechPC Aruba - Keyword Research and Planning",
         "order": 19,
         "meta_descr": "Keyword research tells you how your customers are finding you, how they're finding your competitors, and how they could be finding your website more often. Knowing the right keywords to target is the heart of SEO effectiveness.",
         "meta_image": "@PROJECT_PATH@/assets/images/keyword-research-services-meta-533x469.png"
@@ -17029,7 +17029,7 @@
     },
     "seo-analysis-reporting.html": {
       "settings": {
-        "title": "JunTechPC - Web Analytics and Reporting",
+        "title": "JunTechPC Aruba - Web Analytics and Reporting",
         "order": 25,
         "meta_descr": "Analytics platforms measure activity and behavior on a website, for example: how many users visit, how long they stay, which pages they visit, and whether they arrive by following a link or not. \n",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-web-analytics-services-508x385.png"
@@ -18791,7 +18791,7 @@
     },
     "organic-seo-services.html": {
       "settings": {
-        "title": "JunTechPC - Organic Search Traffic Optimization",
+        "title": "JunTechPC Aruba - Organic Search Traffic Optimization",
         "order": 22,
         "meta_descr": "Organic Search Engine Optimization(SEO) is the most significant part that must be focused on after your website has been developed if you want to accomplish something in online sales. ",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-organic-search-engine-optimization-553x553.png"
@@ -20420,7 +20420,7 @@
     },
     "link-building-services.html": {
       "settings": {
-        "title": "JunTechPC - Link Building Services",
+        "title": "JunTechPC Aruba - Link Building Services",
         "order": 24,
         "meta_descr": "A successful link building strategy is one of the most important factors of SEO ranking. Understanding the health impact backlinks have on your website cannot be underestimated.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-link-building-seo-services-1-508x385.png"
@@ -22111,7 +22111,7 @@
     },
     "responsive-web-design-rwd.html": {
       "settings": {
-        "title": "JunTechPC - Responsive Web Design (RWD)",
+        "title": "JunTechPC Aruba - Responsive Web Design (RWD)",
         "order": 12,
         "meta_descr": "Having a website is important for small business. Your website should be an accurate representation of your company. Let us built a beautiful website for your company in Aruba. ",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-responsive-website-design--697x706.png"
@@ -23744,7 +23744,7 @@
     },
     "website-redesigning-services.html": {
       "settings": {
-        "title": "JunTechPC - Website Redesign Services",
+        "title": "JunTechPC Aruba - Website Redesign Services",
         "order": 13,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-website-redesigning-services-510x478.png",
         "meta_descr": "Thinking of redesigning your website? Redesign an neglected website can be bring them back to life based on two aspects: visual appearance and the website’s visibility in search engines."
@@ -25408,7 +25408,7 @@
     },
     "dynamic-website-design-services.html": {
       "settings": {
-        "title": "JunTechPC - Dynamic Website Design",
+        "title": "JunTechPC Aruba - Dynamic Website Design",
         "order": 16,
         "meta_descr": "Dynamic sites take content and data from a number of locations to render the website. This is primarily done using a server-side language, such as PHP or Javascript, to connect the data and relevant files together. ",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-what-is-a-dynamic-website-555x425.png"
@@ -27131,7 +27131,7 @@
     },
     "static-website-design-services.html": {
       "settings": {
-        "title": "JunTechPC - Static Website Design",
+        "title": "JunTechPC Aruba - Static Website Design",
         "order": 15,
         "meta_image": "@PROJECT_PATH@/assets/images/static-website-design-services-meta-599x352.png",
         "meta_descr": "Static Sites are the new hotness in Web Development and rightfully so. A static website primarily loads ‘static’ content. They are incredibly powerful as well as fast, secure, and extremely easy to work with!"
@@ -28863,7 +28863,7 @@
     },
     "branding-graphic-design-services.html": {
       "settings": {
-        "title": "JunTechPC - Branding and Graphic Design",
+        "title": "JunTechPC Aruba - Branding and Graphic Design",
         "order": 17,
         "meta_descr": "We want to hear what you’re saying about your brand, and if that is any different than your brand perception. From your logo and social media graphics to website design influences how people feel about your brand.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-branding-design-services-582x440.png"
@@ -30588,7 +30588,7 @@
     },
     "mobile-first-website-design.html": {
       "settings": {
-        "title": "JunTechPC - Mobile-First Web Design",
+        "title": "JunTechPC Aruba - Mobile-First Web Design",
         "order": 11,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-mobile-first%20website%20design-1152x847.png",
         "meta_descr": "Mobile-first Design will significantly improve your brand perception and your mobile website user engagement. Those mean a more positive customer experience, more business."
@@ -32220,7 +32220,7 @@
     },
     "user-friendly-design.html": {
       "settings": {
-        "title": "JunTechPC - User-Experience Design",
+        "title": "JunTechPC Aruba - User-Experience Design",
         "order": 18,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-ui-ux-experience-design-1-555x398.png",
         "meta_descr": "UX & UI are an integral part of a website. Having a well-thought-out User Interface (UI) and User Experience (UX) Design will help users navigate your website with ease. We make the website user friendly for the users."
@@ -33824,7 +33824,7 @@
     },
     "website-maintenance-services.html": {
       "settings": {
-        "title": "JunTechPC - Website Maintenance and Support",
+        "title": "JunTechPC Aruba - Website Maintenance and Support",
         "order": 14,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-web-maintenance-support-441x326.png",
         "meta_descr": "Keeping a website current and relevant has everything to do with how your site ranks, and how much traffic visits and, ultimately, converts. Our website maintenance services are geared to maximize your online presence, engage customers with fresh content."
@@ -35428,7 +35428,7 @@
     },
     "image-seo-optimization.html": {
       "settings": {
-        "title": "JunTechPC - Image SEO Optimization",
+        "title": "JunTechPC Aruba - Image SEO Optimization",
         "order": 21,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-image-seo-optimization-services-1-555x478.png",
         "meta_descr": "We enjoy high valuable content for our pages, image optimization is still an important factor in SEO for helping your site rank higher. Therefore, we cannot overlook the importance of image optimization in SEO."
@@ -37197,7 +37197,7 @@
     },
     "webdesign-seo-services-aruba.html": {
       "settings": {
-        "title": "JunTechPC - Aruba Website Design & SEO Services",
+        "title": "JunTechPC Aruba - Website Design & SEO Services",
         "meta_descr": "JunTechPC is an web design agency based in the island of Aruba that specializes in, web design and website maintenance. Helping Small business websites to increase leads.",
         "header_custom": "",
         "footer_custom": "",
@@ -38895,7 +38895,7 @@
     },
     "computer-services-aruba.html": {
       "settings": {
-        "title": "Computer Services and Support - JunTechPC",
+        "title": "Computer Services and Support - JunTechPC Aruba",
         "order": 10,
         "meta_descr": "We strive to make sure customers in need of computer repair in Aruba receive high-quality service. If you are experiencing computer problems of any kind, get in touch with us.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-computer-services-support-aruba-669x459.png"
@@ -42262,7 +42262,7 @@
     },
     "JunTechPC-Website-Design-Portfolio.html": {
       "settings": {
-        "title": "Website Design Portfolio - JunTechPC",
+        "title": "Website Design Portfolio - JunTechPC Aruba",
         "meta_descr": "JunTechPC creates websites for all types of businesses. The following websites are just a small sampling of our Web Design and SEO portfolio. If you would like to view more examples of our work, please contact us.",
         "header_custom": "",
         "footer_custom": "",
@@ -43950,7 +43950,7 @@
     },
     "web-design-services-aruba.html": {
       "settings": {
-        "title": "Website Design Services - JunTechPC",
+        "title": "Website Design Services - JunTechPC Aruba",
         "order": 6,
         "meta_descr": "Website Design Services for business in Aruba. We offer well-optimized SEO web design services at affordable rates to help your business attract more visitors and keep them on your site!",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-website-design-solutions-aruba-508x385.png"
@@ -47536,7 +47536,7 @@
     },
     "cdn-hosting-providers.html": {
       "settings": {
-        "title": "CDN Web Hosting Providers - JunTechPC",
+        "title": "CDN Web Hosting Providers - JunTechPC Aruba",
         "order": 7,
         "meta_image": "@PROJECT_PATH@/assets/images/cdn-web-hosting-providers-juntechpc-636x434.png",
         "meta_descr": "Powerful CDN Web Hosting For Your Site. Host Your Website with Reliable and Scalable Hosting Service Provider. Fast web hosting for your business with excellent support. "
@@ -47719,6 +47719,91 @@
         {
           "alias": false,
           "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".mbr-text": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "center",
+              "color": "#232323"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_name": "info4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section group=\"Features\" class=\"info4\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value parallax>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12\">\n                <h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Powerful CDN Web Hosting For Your Site</h3>\n                <p class=\"mbr-text mbr-fonts-style mb-4\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content. Offloading static content, images, and other large files to a CDN optimizes the user experience and the strain put on your origin server. \n<br>\n<br>Your Global-Friendly website reaches customers exactly where they are, providing a premium and personalized interaction. The speed boost alone from a CDN is enough to lower bounce rates, improve search engine rankings, and increase conversions, all serving to grow your brand and the success of your online presence.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "info4-ru",
+          "_isUserblock": true,
+          "_cid": "sr920ZhtVT",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "[class^=\"socicon-\"]:before, [class*=\" socicon-\"]:before": {
+              "line-height": "55px"
+            },
+            ".btn-social": {
+              "font-size": "32px",
+              "border-radius": "50%",
+              "width": "55px",
+              "height": "55px",
+              "line-height": "55px",
+              "padding": "0",
+              "position": "relative",
+              "cursor": "pointer",
+              "color": "@iconsColor",
+              "border-width": "2px",
+              "transition": "all .3s",
+              "&:hover": {
+                "background": "@iconsColor",
+                "& i.socicon": {
+                  "color": "contrast(@iconsColor) !important"
+                }
+              },
+              "border-color": "@iconsColor"
+            },
+            ".mbr-section-title, .mbr-social-likes": {
+              "color": "#000000"
+            }
+          },
+          "_name": "share2",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section class=\"social2\" group=\"Social\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" plugins=\"SocialLikes,Socicon\">\n    \n     <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#0684ff\">\n        <header>It will share the current page</header>\n        <input type=\"checkbox\" title=\"Facebook\" name=\"facebook\" checked=\"\">\n        <input type=\"checkbox\" title=\"Twitter\" name=\"twitter\" checked=\"\">\n        <input type=\"checkbox\" title=\"Vkontakte\" name=\"vkontakte\">\n        <input type=\"checkbox\" title=\"Odnoklassniki\" name=\"odnoklassniki\">\n        <input type=\"checkbox\" title=\"Pinterest\" name=\"pinterest\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mailru\" name=\"mailru\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Image\" value=\"\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected=\"\">\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\">\n                <h3 class=\"mbr-section-title align-center mb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .mbr-social-likes\">Share Us on Social Media!</h3>\n                <div>\n                    <div class=\"mbr-social-likes align-center\" data-counters=\"false\">\n                        <span mbr-if=\"facebook\" class=\"btn btn-social facebook m-2\" title=\"Share link on Facebook\">\n                            <i class=\"socicon socicon-facebook\"></i>\n                        </span>\n                        <span mbr-if=\"twitter\" class=\"btn btn-social twitter m-2\" title=\"Share link on Twitter\">\n                            <i class=\"socicon socicon-twitter\"></i>\n                        </span>\n                        <span mbr-if=\"vkontakte\" class=\"btn btn-social vkontakte m-2\" title=\"Share link on VKontakte\">\n                            <i class=\"socicon socicon-vkontakte\"></i>\n                        </span>\n                        <span mbr-if=\"odnoklassniki\" class=\"btn btn-social odnoklassniki m-2\" title=\"Share link on Odnoklassniki\">\n                            <i class=\"socicon socicon-odnoklassniki\"></i>\n                        </span>\n                        <span mbr-if=\"pinterest\" class=\"btn btn-social pinterest m-2\" title=\"Share link on Pinterest\">\n                            <i class=\"socicon socicon-pinterest\"></i>\n                        </span>\n                        <span mbr-if=\"mailru\" class=\"btn btn-social mailru m-2\" title=\"Share link on Mailru\">\n                            <i class=\"socicon socicon-mail\"></i>\n                        </span>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "share2-rv",
+          "_isUserblock": true,
+          "_cid": "sr92hBumqQ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
             "padding-top": "(@paddingTop * 1rem)",
             "padding-bottom": "(@paddingBottom * 1rem)",
             "& when (@bg-type = 'color')": {
@@ -47829,7 +47914,7 @@
           },
           "_name": "features3",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"features2\" group=\"Features\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <select title=\"Columns\" name=\"cardsWidth\">\n            <option value=\"12\">1</option>\n            <option value=\"6\" selected>2</option>\n            <option value=\"4\">3</option>\n            <option value=\"3\">4</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" name=\"showTitle\" title=\"Title\" checked>\n        <input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\" checked>\n        <header>Cards</header>\n        <input type=\"checkbox\" name=\"autoSize\" title=\"Auto Size\">\n        <input type=\"range\" name=\"imageHeight\" title=\"Height\" min=\"1\" max=\"5\" step=\"1\" value=\"3\" condition=\"autoSize && !(showButtons==false && showCardSubtitle==false && showCardTitle==false && showText==false)\">\n        <input type=\"checkbox\" title=\"Spacing\" name=\"spacing\" checked>\n        <input type=\"checkbox\" name=\"showCardTitle\" title=\"Title\" checked>\n        <input type=\"checkbox\" name=\"showCardSubtitle\" title=\"Subtitle\">\n        <input type=\"checkbox\" name=\"showText\" title=\"Text\" checked>\n        <input type=\"checkbox\" name=\"showButtons\" title=\"Buttons\" checked>\n        <input type=\"color\" name=\"cardsBg\" title=\"BG\" value=\"#fafafa\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" required>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3-1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fafafa\" condition=\"overlay && bg.type == 'image'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type == 'image'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"mbr-section-head\" mbr-if=\"showTitle || showSubtitle\">\n            <h4 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Powerful CDN Web Hosting For Your Site</h4>\n            <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content.</h5>\n        </div>\n        <div class=\"row mt-4\">\n            <div class=\"item features-image сol-12 col-md-6 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <a href=\"cdn-hosting-providers.html#features3-r9\"><img src=\"@PROJECT_PATH@/assets/images/netlify-develop-deploy-web-experience-500x160.png\" alt=\"JunTechPC-Netlify-Develop-deploy-web-experience\" data-slide-to=\"0\"></a>\n                    </div>\n                    <div class=\"item-content\" mbr-if=\"showCardTitle || showCardSubtitle || showText || showButtons\">\n                        <h5 class=\"item-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".item-title\" mbr-if=\"showCardTitle\">Netlify CDN</h5>\n                        <h6 class=\"item-subtitle mbr-fonts-style mt-1\" mbr-theme-style=\"display-7\" data-app-selector=\".item-subtitle\" mbr-if=\"showCardSubtitle\">\n                            <i>Card Subtitle</i>\n                        </h6>\n                        <p class=\"mbr-text mbr-fonts-style mt-3\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\">Netlify is one of the most amazing web development platform which is meant to multiply your productivity in the best possible way. The platform helps developers to build, test, and deploy websites. By unifying the modern decoupled web elements from local development processes to advanced logics, Netlify is offering an amazingly faster way to ensure much more performant, scalable, and secure websites and applications.<br></p>\n                    </div>\n                    <div class=\"mbr-section-btn item-footer mt-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-buttons mbr-theme-style=\"display-4\"><a href=\"https://www.netlify.com/\" class=\"btn item-btn btn-success\" data-app-placeholder=\"Type Text\">Netlify\n                            &gt;</a></div>\n                </div>\n            </div><div class=\"item features-image сol-12 col-md-6 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <a href=\"cdn-hosting-providers.html#features3-r9\"><img src=\"@PROJECT_PATH@/assets/images/cloudflare-web-performance-security-company-500x169.png\" alt=\"Cloudflare-Web-Performance-Security-Company\" data-slide-to=\"1\"></a>\n                    </div>\n                    <div class=\"item-content\" mbr-if=\"showCardTitle || showCardSubtitle || showText || showButtons\">\n                        <h5 class=\"item-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".item-title\" mbr-if=\"showCardTitle\">Cloudflare CDN</h5>\n                        <h6 class=\"item-subtitle mbr-fonts-style mt-1\" mbr-theme-style=\"display-7\" data-app-selector=\".item-subtitle\" mbr-if=\"showCardSubtitle\">\n                            <i>Card Subtitle</i>\n                        </h6>\n                        <p class=\"mbr-text mbr-fonts-style mt-3\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\">Cloudflare offers ultra-fast static and dynamic content delivery over our global edge network. Exercise precise control over how your content is cached, reduce bandwidth costs, and take advantage of built-in unmetered DDoS protection.&nbsp;Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.<br></p>\n                    </div>\n                    <div class=\"mbr-section-btn item-footer mt-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-buttons mbr-theme-style=\"display-4\"><a href=\"https://www.cloudflare.com/\" class=\"btn item-btn btn-success\" data-app-placeholder=\"Type Text\">Cloudflare&nbsp;&gt;</a></div>\n                </div>\n            </div>\n            \n            \n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features2\" group=\"Features\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <select title=\"Columns\" name=\"cardsWidth\">\n            <option value=\"12\">1</option>\n            <option value=\"6\" selected>2</option>\n            <option value=\"4\">3</option>\n            <option value=\"3\">4</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" name=\"showTitle\" title=\"Title\">\n        <input type=\"checkbox\" name=\"showSubtitle\" title=\"Subtitle\">\n        <header>Cards</header>\n        <input type=\"checkbox\" name=\"autoSize\" title=\"Auto Size\">\n        <input type=\"range\" name=\"imageHeight\" title=\"Height\" min=\"1\" max=\"5\" step=\"1\" value=\"3\" condition=\"autoSize && !(showButtons==false && showCardSubtitle==false && showCardTitle==false && showText==false)\">\n        <input type=\"checkbox\" title=\"Spacing\" name=\"spacing\" checked>\n        <input type=\"checkbox\" name=\"showCardTitle\" title=\"Title\" checked>\n        <input type=\"checkbox\" name=\"showCardSubtitle\" title=\"Subtitle\">\n        <input type=\"checkbox\" name=\"showText\" title=\"Text\" checked>\n        <input type=\"checkbox\" name=\"showButtons\" title=\"Buttons\" checked>\n        <input type=\"color\" name=\"cardsBg\" title=\"BG\" value=\"#fafafa\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" required>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background3-1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#fafafa\" condition=\"overlay && bg.type == 'image'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type == 'image'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"mbr-section-head\" mbr-if=\"showTitle || showSubtitle\">\n            <h4 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Powerful CDN Web Hosting For Your Site</h4>\n            <h5 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0 mt-2\" mbr-theme-style=\"display-7\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content.&nbsp;Offloading static content, images, and other large files to a CDN optimizes the user experience and the strain put on your origin server. <br><br>Your Global-Friendly website reaches customers exactly where they are, providing a premium and personalized interaction. The speed boost alone from a CDN is enough to lower bounce rates, improve search engine rankings, and increase conversions, all serving to grow your brand and the success of your online presence.</h5>\n        </div>\n        <div class=\"row mt-4\">\n            <div class=\"item features-image сol-12 col-md-6 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <a href=\"cdn-hosting-providers.html#features3-r9\"><img src=\"@PROJECT_PATH@/assets/images/netlify-develop-deploy-web-experience-500x160.png\" alt=\"JunTechPC-Netlify-Develop-deploy-web-experience\" data-slide-to=\"0\"></a>\n                    </div>\n                    <div class=\"item-content\" mbr-if=\"showCardTitle || showCardSubtitle || showText || showButtons\">\n                        <h5 class=\"item-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".item-title\" mbr-if=\"showCardTitle\">Netlify CDN</h5>\n                        <h6 class=\"item-subtitle mbr-fonts-style mt-1\" mbr-theme-style=\"display-7\" data-app-selector=\".item-subtitle\" mbr-if=\"showCardSubtitle\">\n                            <i>Card Subtitle</i>\n                        </h6>\n                        <p class=\"mbr-text mbr-fonts-style mt-3\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\">Deploy and Host a Static Website with Netlify. <br>Netlify is one of the most amazing web development platform which is meant to multiply your productivity in the best possible way. The platform helps developers to build, test, and deploy websites. By unifying the modern decoupled web elements from local development processes to advanced logics, Netlify is offering an amazingly faster way to ensure much more performant, scalable, and secure websites and applications.<br></p>\n                    </div>\n                    <div class=\"mbr-section-btn item-footer mt-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-buttons mbr-theme-style=\"display-4\"><a href=\"https://www.netlify.com/\" class=\"btn item-btn btn-success\" data-app-placeholder=\"Type Text\">Netlify\n                            &gt;</a></div>\n                </div>\n            </div><div class=\"item features-image сol-12 col-md-6 col-lg-{{cardsWidth}}\">\n                <div class=\"item-wrapper\">\n                    <div class=\"item-img\">\n                        <a href=\"cdn-hosting-providers.html#features3-r9\"><img src=\"@PROJECT_PATH@/assets/images/cloudflare-web-performance-security-company-500x169.png\" alt=\"Cloudflare-Web-Performance-Security-Company\" data-slide-to=\"1\"></a>\n                    </div>\n                    <div class=\"item-content\" mbr-if=\"showCardTitle || showCardSubtitle || showText || showButtons\">\n                        <h5 class=\"item-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".item-title\" mbr-if=\"showCardTitle\">Cloudflare CDN</h5>\n                        <h6 class=\"item-subtitle mbr-fonts-style mt-1\" mbr-theme-style=\"display-7\" data-app-selector=\".item-subtitle\" mbr-if=\"showCardSubtitle\">\n                            <i>Card Subtitle</i>\n                        </h6>\n                        <p class=\"mbr-text mbr-fonts-style mt-3\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\">Cloudflare offers ultra-fast static and dynamic content delivery over our global edge network. Exercise precise control over how your content is cached, reduce bandwidth costs, and take advantage of built-in unmetered DDoS protection.&nbsp;You can now host static websites. Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.<br></p>\n                    </div>\n                    <div class=\"mbr-section-btn item-footer mt-2\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\" mbr-buttons mbr-theme-style=\"display-4\"><a href=\"https://www.cloudflare.com/\" class=\"btn item-btn btn-success\" data-app-placeholder=\"Type Text\">Cloudflare&nbsp;&gt;</a></div>\n                </div>\n            </div>\n            \n            \n        </div>\n    </div>\n</section>",
           "_anchor": "features3-r9",
           "_isUserblock": true,
           "_cid": "sqIBqRDwks",
