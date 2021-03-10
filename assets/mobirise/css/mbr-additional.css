@@ -27475,42 +27475,37 @@ a {
   text-align: center;
   color: #000000;
 }
-.cid-sobyfpThnw {
-  padding-top: 0rem;
+.cid-sob3mKCOSa {
+  padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-sobyfpThnw .bg-facebook {
-  background: #1778f2;
-  color: #ffffff;
+.cid-sob3mKCOSa [class^="socicon-"]:before,
+.cid-sob3mKCOSa [class*=" socicon-"]:before {
+  line-height: 55px;
 }
-.cid-sobyfpThnw .bg-facebook:hover {
-  background: #0b60cb;
-}
-.cid-sobyfpThnw .bg-twitter {
-  background: #1da1f2;
-  color: #ffffff;
-}
-.cid-sobyfpThnw .bg-twitter:hover {
-  background: #0c85d0;
-}
-.cid-sobyfpThnw .iconfont-wrapper {
-  display: inline-block;
+.cid-sob3mKCOSa .btn-social {
   font-size: 32px;
   border-radius: 50%;
   width: 55px;
   height: 55px;
   line-height: 55px;
-  text-align: center;
-  transition: all 0.3s ease-in-out;
+  padding: 0;
+  position: relative;
+  cursor: pointer;
+  color: #0684ff;
+  border-width: 2px;
+  transition: all .3s;
+  border-color: #0684ff;
 }
-.cid-sobyfpThnw [class^="socicon-"]:before,
-.cid-sobyfpThnw [class*=" socicon-"]:before {
-  line-height: 55px;
-  padding: .6rem;
+.cid-sob3mKCOSa .btn-social:hover {
+  background: #0684ff;
 }
-.cid-sobyfpThnw .mbr-section-title,
-.cid-sobyfpThnw .social-list {
+.cid-sob3mKCOSa .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-sob3mKCOSa .mbr-section-title,
+.cid-sob3mKCOSa .mbr-social-likes {
   color: #000000;
 }
 .cid-sm4ajCDQIo {
@@ -27625,39 +27620,6 @@ a {
   transform: translate(-50%, -50%);
   z-index: 100;
   overflow: hidden;
-}
-.cid-sob3mKCOSa {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-sob3mKCOSa [class^="socicon-"]:before,
-.cid-sob3mKCOSa [class*=" socicon-"]:before {
-  line-height: 55px;
-}
-.cid-sob3mKCOSa .btn-social {
-  font-size: 32px;
-  border-radius: 50%;
-  width: 55px;
-  height: 55px;
-  line-height: 55px;
-  padding: 0;
-  position: relative;
-  cursor: pointer;
-  color: #0684ff;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #0684ff;
-}
-.cid-sob3mKCOSa .btn-social:hover {
-  background: #0684ff;
-}
-.cid-sob3mKCOSa .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-.cid-sob3mKCOSa .mbr-section-title,
-.cid-sob3mKCOSa .mbr-social-likes {
-  color: #000000;
 }
 .cid-sr9MHIMQ4s {
   padding-top: 1rem;
