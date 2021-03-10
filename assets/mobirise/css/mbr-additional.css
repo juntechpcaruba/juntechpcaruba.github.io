@@ -13,7 +13,7 @@ body {
   font-size: 6rem;
 }
 .display-2 {
-  font-family: 'Aaargh';
+  font-family: 'JosefinSans-Regular';
   font-size: 2.5rem;
   line-height: 1.1;
 }
@@ -27476,7 +27476,7 @@ a {
   color: #000000;
 }
 .cid-sob3mKCOSa {
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
@@ -27524,7 +27524,7 @@ a {
 .cid-sm4ajCDQIo .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #ffffff;
+  background: #f3f3f3;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -27564,40 +27564,8 @@ a {
   text-align: center;
   color: #232323;
 }
-.cid-srfMFj0fgI {
-  background-color: #0684ff;
-}
-.cid-srfMFj0fgI .dentaura-container {
-  height: 40px;
-  position: relative;
-  width: 100%;
-}
-.cid-srfMFj0fgI .dentaura-y-up {
-  position: absolute;
-  bottom: 39px;
-  left: 0;
-  width: 100%;
-  pointer-events: none;
-}
-.cid-srfMFj0fgI .down-triangle {
-  width: 0;
-  height: 0;
-  border-top: 50px solid #0684ff;
-  border-left: 25px solid transparent;
-  border-right: 25px solid transparent;
-  position: absolute;
-  top: 35px;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -moz-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  -o-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  z-index: 100;
-  overflow: hidden;
-}
 .cid-sr9MHIMQ4s {
-  padding-top: 3rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -27616,7 +27584,7 @@ a {
 .cid-sr9MHIMQ4s .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #fafafa;
+  background: #f3f3f3;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -27653,6 +27621,9 @@ a {
 }
 .cid-sr9MHIMQ4s .item-subtitle {
   text-align: left;
+}
+.cid-sr9MHIMQ4s .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-sml5mMoEhj {
   padding-top: 1rem;
