@@ -27510,7 +27510,7 @@ a {
 }
 .cid-sm4ajCDQIo {
   padding-top: 0rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-sm4ajCDQIo .item:focus,
@@ -27564,43 +27564,40 @@ a {
   text-align: center;
   color: #232323;
 }
-.cid-srfwmTzLCU {
+.cid-srfMFj0fgI {
   background-color: #0684ff;
 }
-.cid-srfwmTzLCU .trans-wave {
-  opacity: 1;
-  fill: #0684ff;
-  pointer-events: none;
-}
-.cid-srfwmTzLCU .dentaura-container {
+.cid-srfMFj0fgI .dentaura-container {
   height: 40px;
   position: relative;
   width: 100%;
 }
-.cid-srfwmTzLCU .dentaura-y-up {
+.cid-srfMFj0fgI .dentaura-y-up {
   position: absolute;
   bottom: 39px;
   left: 0;
   width: 100%;
   pointer-events: none;
 }
-.cid-srfwmTzLCU .dentaura-cover {
-  background: transparent;
-  height: 200px;
-  width: 100%;
-  position: relative;
-  overflow: hidden;
-  pointer-events: none;
-}
-.cid-srfwmTzLCU .dentaura-y-down {
+.cid-srfMFj0fgI .down-triangle {
+  width: 0;
+  height: 0;
+  border-top: 50px solid #0684ff;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
   position: absolute;
-  bottom: 0px;
-  left: 0;
-  width: 100%;
-  pointer-events: none;
+  top: 35px;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 100;
+  overflow: hidden;
 }
 .cid-sr9MHIMQ4s {
-  padding-top: 2rem;
+  padding-top: 3rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
