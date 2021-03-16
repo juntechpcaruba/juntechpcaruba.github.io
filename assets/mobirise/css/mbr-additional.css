@@ -809,6 +809,39 @@ a {
   text-align: center;
   color: #000000;
 }
+.cid-slYTgK7LYn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-slYTgK7LYn .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-slYTgK7LYn .row {
+  flex-direction: row-reverse;
+}
+.cid-slYTgK7LYn img {
+  width: 100%;
+}
+.cid-smrlSf6agG {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-smrlSf6agG .mbr-text {
+  text-align: center;
+  color: #232323;
+}
+.cid-smrlSf6agG .mbr-section-subtitle {
+  text-align: center;
+  color: #000000;
+}
+.cid-smrlSf6agG .mbr-section-title {
+  text-align: center;
+  color: #000000;
+}
 .cid-sh66JOVBra {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -847,20 +880,20 @@ a {
 .cid-sh66JOVBra .social-list {
   color: #000000;
 }
-.cid-smrlSf6agG {
+.cid-sbAJ0P1gjg {
   padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-smrlSf6agG .mbr-text {
+.cid-sbAJ0P1gjg .mbr-text {
   text-align: center;
   color: #232323;
 }
-.cid-smrlSf6agG .mbr-section-subtitle {
+.cid-sbAJ0P1gjg .mbr-section-subtitle {
   text-align: center;
   color: #000000;
 }
-.cid-smrlSf6agG .mbr-section-title {
+.cid-sbAJ0P1gjg .mbr-section-title {
   text-align: center;
   color: #000000;
 }
@@ -879,23 +912,6 @@ a {
 }
 .cid-slPJmci0Xr img {
   width: 100%;
-}
-.cid-sbAJ0P1gjg {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sbAJ0P1gjg .mbr-text {
-  text-align: center;
-  color: #232323;
-}
-.cid-sbAJ0P1gjg .mbr-section-subtitle {
-  text-align: center;
-  color: #000000;
-}
-.cid-sbAJ0P1gjg .mbr-section-title {
-  text-align: center;
-  color: #000000;
 }
 .cid-sh66EEmHuc {
   padding-top: 1rem;
@@ -946,22 +962,6 @@ a {
 .cid-si3ZTO1dZQ .mbr-section-title {
   text-align: center;
   color: #000000;
-}
-.cid-slYTgK7LYn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-slYTgK7LYn .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-slYTgK7LYn .row {
-  flex-direction: row-reverse;
-}
-.cid-slYTgK7LYn img {
-  width: 100%;
 }
 .cid-si3ZS20Uu8 {
   padding-top: 1rem;
