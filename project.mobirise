@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JunTechPC Aruba",
-    "currentPage": "web-design-services-aruba.html",
+    "currentPage": "about-juntechpc.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -90,7 +90,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C4Y01HT04Z\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C4Y01HT04Z');\n</script>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\", \n  \"@type\": \"BreadcrumbList\", \n  \"itemListElement\": [{\n    \"@type\": \"ListItem\", \n    \"position\": 1, \n    \"name\": \"JunTechPC - Computer Services and Web Solutions Aruba\",\n    \"item\": \"https://juntechpc.ga/\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 2, \n    \"name\": \"JunTechPC - About Us and What We Do\",\n    \"item\": \"https://juntechpc.ga/about-juntechpc-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 3, \n    \"name\": \"JunTechPC - Services and Support in Aruba\",\n    \"item\": \"https://juntechpc.ga/juntechpc-services-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 4, \n    \"name\": \"JunTechPC - Get Service and Support Today!\",\n    \"item\": \"https://juntechpc.ga/contact-juntechpc-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 5, \n    \"name\": \"JunTechPC - SUPPORTS YOU DURING COVID-19\",\n    \"item\": \"https://juntechpc.ga/juntechpc-aruba-covid-19\"  \n  }]\n}\n</script>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Person\",\n  \"name\": \"Juny Engelhart\",\n  \"url\": \"https://juntechpc.ga/about-juntechpc-aruba\",\n  \"image\": \"https://twitter.com/juntechpc/photo\",\n  \"sameAs\": \"https://juntechpc.ga/\",\n  \"jobTitle\": \"Website Designer, Computer Technician\",\n  \"worksFor\": {\n    \"@type\": \"Organization\",\n    \"name\": \"JunTechPC Aruba\"\n  }  \n}\n</script>",
     "publishChangesOnly": true,
-    "mbrsiteDomain": "ilpdg8qokx",
+    "mbrsiteDomain": "ikfobzwln7",
     "witsec-language": "en",
     "witsec-mailform": false,
     "witsec-white-label": true
@@ -6636,146 +6636,11 @@
             }
           },
           "_name": "header18",
-          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">FREQUENTLY ASKED QUESTIONS</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br>FAQ's&nbsp;Web Solutions</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"computer-services-Aruba.html\" data-app-placeholder=\"Type Text\"><span class=\"icon54-v1-tools mbr-iconfont mbr-iconfont-btn\"></span>Get Computer Help Now!</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">FREQUENTLY ASKED QUESTIONS</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br>FAQ's&nbsp;Web Solutions</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"computer-services-Aruba.html\" data-app-placeholder=\"Type Text\"><span class=\"icon54-v1-tools mbr-iconfont mbr-iconfont-btn\"></span>Get Computer Help Now!</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "header18-4k",
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
           "_cid": "scALLvM0UJ",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_name": "divider18",
-          "_sourceTheme": "dentauram4",
-          "_styles": {
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".trans-wave": {
-              "opacity": "1",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave1": {
-              "opacity": "0.7",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave2": {
-              "opacity": "0.5",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave3": {
-              "opacity": "0.3",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".dentaura-container": {
-              "height": "40px",
-              "position": "relative",
-              "width": "100%"
-            },
-            ".dentaura-y-up": {
-              "position": "absolute",
-              "& when (@flipVerti = false)": {
-                "bottom": "39px"
-              },
-              "& when (@flipVerti)": {
-                "top": "39px",
-                "z-index": "@zindexOrderverti"
-              },
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none"
-            },
-            ".dentaura-cover": {
-              "background": "transparent",
-              "height": "(@heightWavecover * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "overflow": "hidden",
-              "pointer-events": "none",
-              "& when (@flipVerti)": {
-                "-webkit-transform": "rotateX(180deg)",
-                "-moz-transform": "rotateX(180deg)",
-                "-o-transform": "rotateX(180deg)",
-                "-ms-transform": "rotateX(180deg)",
-                "transform": "rotateX(180deg)",
-                "& when (@flipDownHori)": {
-                  "-webkit-transform": "rotate(180deg)",
-                  "-moz-transform": "rotate(180deg)",
-                  "-o-transform": "rotate(180deg)",
-                  "-ms-transform": "rotate(180deg)",
-                  "transform": "rotate(180deg)"
-                }
-              },
-              "& when (@flipVerti = false)": {
-                "& when (@flipUpHori)": {
-                  "-webkit-transform": "rotateY(180deg)",
-                  "-moz-transform": "rotateY(180deg)",
-                  "-o-transform": "rotateY(180deg)",
-                  "-ms-transform": "rotateY(180deg)",
-                  "transform": "rotateY(180deg)"
-                }
-              }
-            },
-            ".dentaura-y-down": {
-              "position": "absolute",
-              "bottom": "0px",
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none",
-              "height": "15vh",
-              "min-height": "100px",
-              "max-height": "150px"
-            },
-            ".parallax > use": {
-              "animation": "move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5)",
-              "& when (@infiniteAnimation)": {
-                "animation-iteration-count": "infinite"
-              },
-              "& when (@infiniteAnimation = false)": {
-                "animation-iteration-count": "(@countAnimation * 1)"
-              }
-            },
-            ".parallax > use:nth-child(1)": {
-              "animation-delay": "-2s",
-              "animation-duration": "7s"
-            },
-            ".parallax > use:nth-child(2)": {
-              "animation-delay": "-3s",
-              "animation-duration": "10s"
-            },
-            ".parallax > use:nth-child(3)": {
-              "animation-delay": "-4s",
-              "animation-duration": "13s"
-            },
-            ".parallax > use:nth-child(4)": {
-              "animation-delay": "-5s",
-              "animation-duration": "20s"
-            },
-            "@keyframes move-forever": {
-              "0%": {
-                "transform": "translate3d(-90px, 0, 0)"
-              },
-              "100%": {
-                "transform": "translate3d(85px, 0, 0)"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".dentaura-y-down": {
-                "height": "40px",
-                "min-height": "40px"
-              }
-            }
-          },
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-p2",
-          "_isUserblock": true,
-          "_cid": "soaBVotOY6",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -16611,146 +16476,11 @@
             }
           },
           "_name": "header18",
-          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Website Analytics Services</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Web Analytics</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"contact-juntechpc-aruba.html#form5-1q\" data-app-placeholder=\"Type Text\">BOOK A FREE CONSULTATION</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Website Analytics Services</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Web Analytics</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"contact-juntechpc-aruba.html#form5-1q\" data-app-placeholder=\"Type Text\">BOOK A FREE CONSULTATION</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "header18-8w",
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
           "_cid": "sg2ZabD5Ir",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_name": "divider18",
-          "_sourceTheme": "dentauram4",
-          "_styles": {
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".trans-wave": {
-              "opacity": "1",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave1": {
-              "opacity": "0.7",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave2": {
-              "opacity": "0.5",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave3": {
-              "opacity": "0.3",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".dentaura-container": {
-              "height": "40px",
-              "position": "relative",
-              "width": "100%"
-            },
-            ".dentaura-y-up": {
-              "position": "absolute",
-              "& when (@flipVerti = false)": {
-                "bottom": "39px"
-              },
-              "& when (@flipVerti)": {
-                "top": "39px",
-                "z-index": "@zindexOrderverti"
-              },
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none"
-            },
-            ".dentaura-cover": {
-              "background": "transparent",
-              "height": "(@heightWavecover * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "overflow": "hidden",
-              "pointer-events": "none",
-              "& when (@flipVerti)": {
-                "-webkit-transform": "rotateX(180deg)",
-                "-moz-transform": "rotateX(180deg)",
-                "-o-transform": "rotateX(180deg)",
-                "-ms-transform": "rotateX(180deg)",
-                "transform": "rotateX(180deg)",
-                "& when (@flipDownHori)": {
-                  "-webkit-transform": "rotate(180deg)",
-                  "-moz-transform": "rotate(180deg)",
-                  "-o-transform": "rotate(180deg)",
-                  "-ms-transform": "rotate(180deg)",
-                  "transform": "rotate(180deg)"
-                }
-              },
-              "& when (@flipVerti = false)": {
-                "& when (@flipUpHori)": {
-                  "-webkit-transform": "rotateY(180deg)",
-                  "-moz-transform": "rotateY(180deg)",
-                  "-o-transform": "rotateY(180deg)",
-                  "-ms-transform": "rotateY(180deg)",
-                  "transform": "rotateY(180deg)"
-                }
-              }
-            },
-            ".dentaura-y-down": {
-              "position": "absolute",
-              "bottom": "0px",
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none",
-              "height": "15vh",
-              "min-height": "100px",
-              "max-height": "150px"
-            },
-            ".parallax > use": {
-              "animation": "move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5)",
-              "& when (@infiniteAnimation)": {
-                "animation-iteration-count": "infinite"
-              },
-              "& when (@infiniteAnimation = false)": {
-                "animation-iteration-count": "(@countAnimation * 1)"
-              }
-            },
-            ".parallax > use:nth-child(1)": {
-              "animation-delay": "-2s",
-              "animation-duration": "7s"
-            },
-            ".parallax > use:nth-child(2)": {
-              "animation-delay": "-3s",
-              "animation-duration": "10s"
-            },
-            ".parallax > use:nth-child(3)": {
-              "animation-delay": "-4s",
-              "animation-duration": "13s"
-            },
-            ".parallax > use:nth-child(4)": {
-              "animation-delay": "-5s",
-              "animation-duration": "20s"
-            },
-            "@keyframes move-forever": {
-              "0%": {
-                "transform": "translate3d(-90px, 0, 0)"
-              },
-              "100%": {
-                "transform": "translate3d(85px, 0, 0)"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".dentaura-y-down": {
-                "height": "40px",
-                "min-height": "40px"
-              }
-            }
-          },
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-p4",
-          "_isUserblock": true,
-          "_cid": "soaCpP4u6H",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -19867,146 +19597,11 @@
             }
           },
           "_name": "header18",
-          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Link Building Services</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Back-links services </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"computer-services-Aruba.html\" data-app-placeholder=\"Type Text\"><span class=\"icon54-v1-tools mbr-iconfont mbr-iconfont-btn\"></span>Get Computer Help Now!</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Link Building Services</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Back-links services </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"computer-services-Aruba.html\" data-app-placeholder=\"Type Text\"><span class=\"icon54-v1-tools mbr-iconfont mbr-iconfont-btn\"></span>Get Computer Help Now!</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "header18-7q",
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
           "_cid": "sfFYW7mmUK",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_name": "divider18",
-          "_sourceTheme": "dentauram4",
-          "_styles": {
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".trans-wave": {
-              "opacity": "1",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave1": {
-              "opacity": "0.7",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave2": {
-              "opacity": "0.5",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave3": {
-              "opacity": "0.3",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".dentaura-container": {
-              "height": "40px",
-              "position": "relative",
-              "width": "100%"
-            },
-            ".dentaura-y-up": {
-              "position": "absolute",
-              "& when (@flipVerti = false)": {
-                "bottom": "39px"
-              },
-              "& when (@flipVerti)": {
-                "top": "39px",
-                "z-index": "@zindexOrderverti"
-              },
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none"
-            },
-            ".dentaura-cover": {
-              "background": "transparent",
-              "height": "(@heightWavecover * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "overflow": "hidden",
-              "pointer-events": "none",
-              "& when (@flipVerti)": {
-                "-webkit-transform": "rotateX(180deg)",
-                "-moz-transform": "rotateX(180deg)",
-                "-o-transform": "rotateX(180deg)",
-                "-ms-transform": "rotateX(180deg)",
-                "transform": "rotateX(180deg)",
-                "& when (@flipDownHori)": {
-                  "-webkit-transform": "rotate(180deg)",
-                  "-moz-transform": "rotate(180deg)",
-                  "-o-transform": "rotate(180deg)",
-                  "-ms-transform": "rotate(180deg)",
-                  "transform": "rotate(180deg)"
-                }
-              },
-              "& when (@flipVerti = false)": {
-                "& when (@flipUpHori)": {
-                  "-webkit-transform": "rotateY(180deg)",
-                  "-moz-transform": "rotateY(180deg)",
-                  "-o-transform": "rotateY(180deg)",
-                  "-ms-transform": "rotateY(180deg)",
-                  "transform": "rotateY(180deg)"
-                }
-              }
-            },
-            ".dentaura-y-down": {
-              "position": "absolute",
-              "bottom": "0px",
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none",
-              "height": "15vh",
-              "min-height": "100px",
-              "max-height": "150px"
-            },
-            ".parallax > use": {
-              "animation": "move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5)",
-              "& when (@infiniteAnimation)": {
-                "animation-iteration-count": "infinite"
-              },
-              "& when (@infiniteAnimation = false)": {
-                "animation-iteration-count": "(@countAnimation * 1)"
-              }
-            },
-            ".parallax > use:nth-child(1)": {
-              "animation-delay": "-2s",
-              "animation-duration": "7s"
-            },
-            ".parallax > use:nth-child(2)": {
-              "animation-delay": "-3s",
-              "animation-duration": "10s"
-            },
-            ".parallax > use:nth-child(3)": {
-              "animation-delay": "-4s",
-              "animation-duration": "13s"
-            },
-            ".parallax > use:nth-child(4)": {
-              "animation-delay": "-5s",
-              "animation-duration": "20s"
-            },
-            "@keyframes move-forever": {
-              "0%": {
-                "transform": "translate3d(-90px, 0, 0)"
-              },
-              "100%": {
-                "transform": "translate3d(85px, 0, 0)"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".dentaura-y-down": {
-                "height": "40px",
-                "min-height": "40px"
-              }
-            }
-          },
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-p5",
-          "_isUserblock": true,
-          "_cid": "soaCwD7yhf",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -21558,146 +21153,11 @@
             }
           },
           "_name": "header18",
-          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Responsive Website Design</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Responsive Design</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"web-design-services-aruba.html#features3-4c\" data-app-placeholder=\"Type Text\">Recent Web Design Projects</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Responsive Website Design</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Responsive Design</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"web-design-services-aruba.html#features3-4c\" data-app-placeholder=\"Type Text\">Recent Web Design Projects</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "header18-b8",
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
           "_cid": "sgSREvcT13",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_name": "divider18",
-          "_sourceTheme": "dentauram4",
-          "_styles": {
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".trans-wave": {
-              "opacity": "1",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave1": {
-              "opacity": "0.7",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave2": {
-              "opacity": "0.5",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave3": {
-              "opacity": "0.3",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".dentaura-container": {
-              "height": "40px",
-              "position": "relative",
-              "width": "100%"
-            },
-            ".dentaura-y-up": {
-              "position": "absolute",
-              "& when (@flipVerti = false)": {
-                "bottom": "39px"
-              },
-              "& when (@flipVerti)": {
-                "top": "39px",
-                "z-index": "@zindexOrderverti"
-              },
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none"
-            },
-            ".dentaura-cover": {
-              "background": "transparent",
-              "height": "(@heightWavecover * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "overflow": "hidden",
-              "pointer-events": "none",
-              "& when (@flipVerti)": {
-                "-webkit-transform": "rotateX(180deg)",
-                "-moz-transform": "rotateX(180deg)",
-                "-o-transform": "rotateX(180deg)",
-                "-ms-transform": "rotateX(180deg)",
-                "transform": "rotateX(180deg)",
-                "& when (@flipDownHori)": {
-                  "-webkit-transform": "rotate(180deg)",
-                  "-moz-transform": "rotate(180deg)",
-                  "-o-transform": "rotate(180deg)",
-                  "-ms-transform": "rotate(180deg)",
-                  "transform": "rotate(180deg)"
-                }
-              },
-              "& when (@flipVerti = false)": {
-                "& when (@flipUpHori)": {
-                  "-webkit-transform": "rotateY(180deg)",
-                  "-moz-transform": "rotateY(180deg)",
-                  "-o-transform": "rotateY(180deg)",
-                  "-ms-transform": "rotateY(180deg)",
-                  "transform": "rotateY(180deg)"
-                }
-              }
-            },
-            ".dentaura-y-down": {
-              "position": "absolute",
-              "bottom": "0px",
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none",
-              "height": "15vh",
-              "min-height": "100px",
-              "max-height": "150px"
-            },
-            ".parallax > use": {
-              "animation": "move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5)",
-              "& when (@infiniteAnimation)": {
-                "animation-iteration-count": "infinite"
-              },
-              "& when (@infiniteAnimation = false)": {
-                "animation-iteration-count": "(@countAnimation * 1)"
-              }
-            },
-            ".parallax > use:nth-child(1)": {
-              "animation-delay": "-2s",
-              "animation-duration": "7s"
-            },
-            ".parallax > use:nth-child(2)": {
-              "animation-delay": "-3s",
-              "animation-duration": "10s"
-            },
-            ".parallax > use:nth-child(3)": {
-              "animation-delay": "-4s",
-              "animation-duration": "13s"
-            },
-            ".parallax > use:nth-child(4)": {
-              "animation-delay": "-5s",
-              "animation-duration": "20s"
-            },
-            "@keyframes move-forever": {
-              "0%": {
-                "transform": "translate3d(-90px, 0, 0)"
-              },
-              "100%": {
-                "transform": "translate3d(85px, 0, 0)"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".dentaura-y-down": {
-                "height": "40px",
-                "min-height": "40px"
-              }
-            }
-          },
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-pi",
-          "_isUserblock": true,
-          "_cid": "soaDBwwLO9",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -29630,146 +29090,11 @@
             }
           },
           "_name": "header18",
-          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Mobile-First Website Design</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Mobile-First Design</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"contact-juntechpc-aruba.html#form5-1q\" data-app-placeholder=\"Type Text\">BOOK A FREE CONSULTATION</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Mobile-First Website Design</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Mobile-First Design</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"contact-juntechpc-aruba.html#form5-1q\" data-app-placeholder=\"Type Text\">BOOK A FREE CONSULTATION</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "header18-f2",
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
           "_cid": "shiiFTB805",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_name": "divider18",
-          "_sourceTheme": "dentauram4",
-          "_styles": {
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".trans-wave": {
-              "opacity": "1",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave1": {
-              "opacity": "0.7",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave2": {
-              "opacity": "0.5",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave3": {
-              "opacity": "0.3",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".dentaura-container": {
-              "height": "40px",
-              "position": "relative",
-              "width": "100%"
-            },
-            ".dentaura-y-up": {
-              "position": "absolute",
-              "& when (@flipVerti = false)": {
-                "bottom": "39px"
-              },
-              "& when (@flipVerti)": {
-                "top": "39px",
-                "z-index": "@zindexOrderverti"
-              },
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none"
-            },
-            ".dentaura-cover": {
-              "background": "transparent",
-              "height": "(@heightWavecover * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "overflow": "hidden",
-              "pointer-events": "none",
-              "& when (@flipVerti)": {
-                "-webkit-transform": "rotateX(180deg)",
-                "-moz-transform": "rotateX(180deg)",
-                "-o-transform": "rotateX(180deg)",
-                "-ms-transform": "rotateX(180deg)",
-                "transform": "rotateX(180deg)",
-                "& when (@flipDownHori)": {
-                  "-webkit-transform": "rotate(180deg)",
-                  "-moz-transform": "rotate(180deg)",
-                  "-o-transform": "rotate(180deg)",
-                  "-ms-transform": "rotate(180deg)",
-                  "transform": "rotate(180deg)"
-                }
-              },
-              "& when (@flipVerti = false)": {
-                "& when (@flipUpHori)": {
-                  "-webkit-transform": "rotateY(180deg)",
-                  "-moz-transform": "rotateY(180deg)",
-                  "-o-transform": "rotateY(180deg)",
-                  "-ms-transform": "rotateY(180deg)",
-                  "transform": "rotateY(180deg)"
-                }
-              }
-            },
-            ".dentaura-y-down": {
-              "position": "absolute",
-              "bottom": "0px",
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none",
-              "height": "15vh",
-              "min-height": "100px",
-              "max-height": "150px"
-            },
-            ".parallax > use": {
-              "animation": "move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5)",
-              "& when (@infiniteAnimation)": {
-                "animation-iteration-count": "infinite"
-              },
-              "& when (@infiniteAnimation = false)": {
-                "animation-iteration-count": "(@countAnimation * 1)"
-              }
-            },
-            ".parallax > use:nth-child(1)": {
-              "animation-delay": "-2s",
-              "animation-duration": "7s"
-            },
-            ".parallax > use:nth-child(2)": {
-              "animation-delay": "-3s",
-              "animation-duration": "10s"
-            },
-            ".parallax > use:nth-child(3)": {
-              "animation-delay": "-4s",
-              "animation-duration": "13s"
-            },
-            ".parallax > use:nth-child(4)": {
-              "animation-delay": "-5s",
-              "animation-duration": "20s"
-            },
-            "@keyframes move-forever": {
-              "0%": {
-                "transform": "translate3d(-90px, 0, 0)"
-              },
-              "100%": {
-                "transform": "translate3d(85px, 0, 0)"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".dentaura-y-down": {
-                "height": "40px",
-                "min-height": "40px"
-              }
-            }
-          },
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-pj",
-          "_isUserblock": true,
-          "_cid": "soaDFXFXBN",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -32731,146 +32056,11 @@
             }
           },
           "_name": "header18",
-          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Website Maintenance Services</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Website maintenance</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"contact-juntechpc-aruba.html#form5-1q\" data-app-placeholder=\"Type Text\">BOOK A FREE CONSULTATION</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background6.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">JunTechPC</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-2\" mbr-if=\"showSubitle\">Website Maintenance Services</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Website maintenance</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-info\" href=\"contact-juntechpc-aruba.html#form5-1q\" data-app-placeholder=\"Type Text\">BOOK A FREE CONSULTATION</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "header18-gd",
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
           "_cid": "shwbqc0GDg",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_name": "divider18",
-          "_sourceTheme": "dentauram4",
-          "_styles": {
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".trans-wave": {
-              "opacity": "1",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave1": {
-              "opacity": "0.7",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave2": {
-              "opacity": "0.5",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave3": {
-              "opacity": "0.3",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".dentaura-container": {
-              "height": "40px",
-              "position": "relative",
-              "width": "100%"
-            },
-            ".dentaura-y-up": {
-              "position": "absolute",
-              "& when (@flipVerti = false)": {
-                "bottom": "39px"
-              },
-              "& when (@flipVerti)": {
-                "top": "39px",
-                "z-index": "@zindexOrderverti"
-              },
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none"
-            },
-            ".dentaura-cover": {
-              "background": "transparent",
-              "height": "(@heightWavecover * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "overflow": "hidden",
-              "pointer-events": "none",
-              "& when (@flipVerti)": {
-                "-webkit-transform": "rotateX(180deg)",
-                "-moz-transform": "rotateX(180deg)",
-                "-o-transform": "rotateX(180deg)",
-                "-ms-transform": "rotateX(180deg)",
-                "transform": "rotateX(180deg)",
-                "& when (@flipDownHori)": {
-                  "-webkit-transform": "rotate(180deg)",
-                  "-moz-transform": "rotate(180deg)",
-                  "-o-transform": "rotate(180deg)",
-                  "-ms-transform": "rotate(180deg)",
-                  "transform": "rotate(180deg)"
-                }
-              },
-              "& when (@flipVerti = false)": {
-                "& when (@flipUpHori)": {
-                  "-webkit-transform": "rotateY(180deg)",
-                  "-moz-transform": "rotateY(180deg)",
-                  "-o-transform": "rotateY(180deg)",
-                  "-ms-transform": "rotateY(180deg)",
-                  "transform": "rotateY(180deg)"
-                }
-              }
-            },
-            ".dentaura-y-down": {
-              "position": "absolute",
-              "bottom": "0px",
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none",
-              "height": "15vh",
-              "min-height": "100px",
-              "max-height": "150px"
-            },
-            ".parallax > use": {
-              "animation": "move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5)",
-              "& when (@infiniteAnimation)": {
-                "animation-iteration-count": "infinite"
-              },
-              "& when (@infiniteAnimation = false)": {
-                "animation-iteration-count": "(@countAnimation * 1)"
-              }
-            },
-            ".parallax > use:nth-child(1)": {
-              "animation-delay": "-2s",
-              "animation-duration": "7s"
-            },
-            ".parallax > use:nth-child(2)": {
-              "animation-delay": "-3s",
-              "animation-duration": "10s"
-            },
-            ".parallax > use:nth-child(3)": {
-              "animation-delay": "-4s",
-              "animation-duration": "13s"
-            },
-            ".parallax > use:nth-child(4)": {
-              "animation-delay": "-5s",
-              "animation-duration": "20s"
-            },
-            "@keyframes move-forever": {
-              "0%": {
-                "transform": "translate3d(-90px, 0, 0)"
-              },
-              "100%": {
-                "transform": "translate3d(85px, 0, 0)"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".dentaura-y-down": {
-                "height": "40px",
-                "min-height": "40px"
-              }
-            }
-          },
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-pg",
-          "_isUserblock": true,
-          "_cid": "soaDqr7XNQ",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -43129,11 +42319,11 @@
           "_sourceTheme": "mobirise5",
           "_customHTML": "<section class=\"content8\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"7\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Stylized\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>\n        <input type=\"color\" name=\"iconColor\" title=\"Color\" value=\"#0684ff\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"counter-container col-md-12 col-lg-{{textWidth}}\">\n                <h4 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with the Mobirise app.\n                </h4>\n                <div class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                    <ul>\n                        <li>Quality websites, enhancing web usability</li>\n                        <li>Optimized web design for mobile devices</li>\n                        <li>Optimized webpages for SEO</li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "srURrhcVOl",
+          "_anchor": "content8-t1",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content8-t1"
+          "_params": {}
         },
         {
           "alias": false,
@@ -49338,7 +48528,7 @@
           },
           "_name": "image3",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"image3\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"4\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <a href=\"web-design-services-aruba.html#image3-b0\"><img src=\"@PROJECT_PATH@/assets/images/juntechpc-website-design-solutions-aruba-508x385.png\" alt=\"JunTechPC-My-Web-Design-Portfolio\"></a>\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"image3\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"4\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <a href=\"juntechpc-web-design-process.html#image3-ta\"><img src=\"@PROJECT_PATH@/assets/images/juntechpc-website-design-solutions-aruba-508x385.png\" alt=\"JunTechPC-My-Web-Design-Portfolio\"></a>\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "image3-ta",
           "_isUserblock": true,
           "_cid": "srUZZHBMzM",
