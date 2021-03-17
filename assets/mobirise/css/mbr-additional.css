@@ -861,6 +861,13 @@ a {
 .cid-sh66JOVBra .bg-twitter:hover {
   background: #0c85d0;
 }
+.cid-sh66JOVBra .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-sh66JOVBra .bg-instagram:hover {
+  background: #bd005c;
+}
 .cid-sh66JOVBra .iconfont-wrapper {
   display: inline-block;
   font-size: 32px;
@@ -15935,6 +15942,29 @@ a {
 .cid-sr9bQ20b0k .btn:hover {
   -webkit-transform: translateY(-5px) !important;
   transform: translateY(-5px);
+}
+.cid-srXONKil91 {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-srXONKil91 ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-srXONKil91 li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-srXONKil91 ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #0684ff;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
 }
 .cid-sh6MdjBjD0 {
   padding-top: 7rem;
