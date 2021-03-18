@@ -1135,7 +1135,7 @@ a {
     margin: auto;
   }
   .cid-sr9bQ20b0k .navbar.navbar-short {
-    background: rgba(53, 53, 53, 0.3) !important;
+    background: rgba(111, 109, 109, 0.3) !important;
     min-height: 10px !important;
   }
   .cid-sr9bQ20b0k .navbar.navbar-short .topLineDivSettings {
@@ -1263,12 +1263,11 @@ a {
   -webkit-flex-direction: column;
   flex-direction: column;
   transition: all .3s;
-  background: rgba(53, 53, 53, 0.3);
-  background: none;
+  background: rgba(111, 109, 109, 0.3);
 }
 @media (min-width: 992px) {
   .cid-sr9bQ20b0k .navbar.navbar-short {
-    background: rgba(53, 53, 53, 0.3) !important;
+    background: rgba(111, 109, 109, 0.3) !important;
     min-height: 10px;
   }
   .cid-sr9bQ20b0k .navbar.navbar-short .topLineDivSettings {
@@ -1422,7 +1421,7 @@ a {
 @media (min-width: 992px) {
   .cid-sr9bQ20b0k .dropdown-menu,
   .cid-sr9bQ20b0k .navbar.opened {
-    background: rgba(53, 53, 53, 0.3) !important;
+    background: rgba(111, 109, 109, 0.3) !important;
   }
 }
 .cid-sr9bQ20b0k .nav-item:focus,
