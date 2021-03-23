@@ -2887,20 +2887,39 @@ a {
   -webkit-transform: translateY(-5px) !important;
   transform: translateY(-5px);
 }
-.cid-sblT1XZF7p {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+.cid-ssuK9OS1do {
+  padding-top: 6rem;
+  padding-bottom: 5rem;
   background-image: url("../../../assets/images/juntechpc-aruba-computer-services-web-solutions-1-1920x1280.jpg");
 }
-.cid-sblT1XZF7p .mbr-text,
-.cid-sblT1XZF7p .mbr-section-btn {
-  color: #ffffff;
+.cid-ssuK9OS1do .row {
+  flex-direction: row-reverse;
 }
-.cid-sblT1XZF7p .mbr-section-subtitle {
-  color: #ffffff;
+@media (max-width: 991px) {
+  .cid-ssuK9OS1do .image-wrapper {
+    margin-bottom: 2rem;
+  }
 }
-.cid-sblT1XZF7p .mbr-section-title {
+.cid-ssuK9OS1do .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (min-width: 992px) {
+  .cid-ssuK9OS1do .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-ssuK9OS1do .text-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-ssuK9OS1do .mbr-section-title {
   color: #0684ff;
+}
+.cid-ssuK9OS1do .mbr-text,
+.cid-ssuK9OS1do .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-soaB8sapD7 {
   background-color: #0684ff;
@@ -3119,22 +3138,6 @@ a {
 .cid-snHLWPqEvv .mbr-section-title,
 .cid-snHLWPqEvv .mbr-social-likes {
   color: #000000;
-}
-.cid-srlhmiecNl {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-srlhmiecNl .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-srlhmiecNl .row {
-  flex-direction: row-reverse;
-}
-.cid-srlhmiecNl img {
-  width: 100%;
 }
 .cid-srlhncuQQS {
   padding-top: 0rem;
@@ -26069,7 +26072,7 @@ a {
 }
 .cid-ssi30BGaLg {
   padding-top: 6rem;
-  padding-bottom: 5rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/juntechpc-aruba-computer-services-web-solutions-1-1920x1280.jpg");
 }
 .cid-ssi30BGaLg .row {
