@@ -13,15 +13,15 @@
         "warningColor": "#232323",
         "dangerColor": "#000000",
         "mainFont": "Jost",
-        "display1Font": "Aaargh",
-        "display1Size": "4.8",
+        "display1Font": "good times rg",
+        "display1Size": "4.0",
         "display2Font": "Jost",
         "display2Size": "2.2",
-        "display5Font": "Roboto",
+        "display5Font": "Jost",
         "display5Size": "1.8",
-        "display7Font": "Roboto",
+        "display7Font": "Jost",
         "display7Size": 1.2,
-        "display4Font": "Roboto",
+        "display4Font": "Jost",
         "display4Size": 1.1,
         "isRoundedButtons": false,
         "isGhostButtonBorder": true,
@@ -43,25 +43,10 @@
     "versionFirst": "5.0.29",
     "siteFonts": [
       {
-        "css": "'Roboto', sans-serif",
-        "name": "Roboto",
-        "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
-      },
-      {
-        "css": "'Aaargh'",
-        "name": "Aaargh",
+        "css": "'good times rg'",
+        "name": "good times rg",
         "url": null,
-        "file": "@PROJECT_PATH@/fonts/Aaargh/font.ttf"
-      },
-      {
-        "css": "'Jost', sans-serif",
-        "name": "Jost",
-        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
-      },
-      {
-        "css": "'Share Tech', sans-serif",
-        "name": "Share Tech",
-        "url": "https://fonts.googleapis.com/css?family=Share+Tech:400"
+        "file": "@PROJECT_PATH@/fonts/good%20times%20rg/font.ttf"
       }
     ],
     "imageResize": true,
@@ -83,7 +68,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C4Y01HT04Z\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C4Y01HT04Z');\n</script>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\", \n  \"@type\": \"BreadcrumbList\", \n  \"itemListElement\": [{\n    \"@type\": \"ListItem\", \n    \"position\": 1, \n    \"name\": \"JunTechPC - Computer Services and Web Solutions Aruba\",\n    \"item\": \"https://juntechpc.ga/\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 2, \n    \"name\": \"JunTechPC - About Us and What We Do\",\n    \"item\": \"https://juntechpc.ga/about-juntechpc-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 3, \n    \"name\": \"JunTechPC - Services and Support in Aruba\",\n    \"item\": \"https://juntechpc.ga/juntechpc-services-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 4, \n    \"name\": \"JunTechPC - Get Service and Support Today!\",\n    \"item\": \"https://juntechpc.ga/contact-juntechpc-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 5, \n    \"name\": \"JunTechPC - SUPPORTS YOU DURING COVID-19\",\n    \"item\": \"https://juntechpc.ga/juntechpc-aruba-covid-19\"  \n  }]\n}\n</script>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Person\",\n  \"name\": \"Juny Engelhart\",\n  \"url\": \"https://juntechpc.ga/about-juntechpc-aruba\",\n  \"image\": \"https://twitter.com/juntechpc/photo\",\n  \"sameAs\": \"https://juntechpc.ga/\",\n  \"jobTitle\": \"Website Designer, Computer Technician\",\n  \"worksFor\": {\n    \"@type\": \"Organization\",\n    \"name\": \"JunTechPC Aruba\"\n  }  \n}\n</script>",
     "publishChangesOnly": true,
-    "mbrsiteDomain": "hc4ch3jm0f",
+    "mbrsiteDomain": "bdgk9npssc",
     "witsec-language": "en",
     "witsec-mailform": false,
     "witsec-white-label": true,
