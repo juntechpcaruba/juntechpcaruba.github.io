@@ -29523,8 +29523,8 @@ a {
 }
 .cid-sqIA3FUySW {
   padding-top: 7rem;
-  padding-bottom: 4rem;
-  background-image: linear-gradient(135deg, #000000 10%, #353535 100%) !important;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/juntechpc-aruba-computer-services-web-solutions-1920x1280.jpg");
 }
 .cid-sqIA3FUySW .mbr-text,
 .cid-sqIA3FUySW .mbr-section-btn {
@@ -29535,6 +29535,98 @@ a {
 }
 .cid-sqIA3FUySW .mbr-section-title {
   color: #0684ff;
+}
+.cid-ssHWomIWOc {
+  background-color: #0684ff;
+}
+.cid-ssHWomIWOc .trans-wave {
+  opacity: 1;
+  fill: #0684ff;
+  pointer-events: none;
+}
+.cid-ssHWomIWOc .trans-wave1 {
+  opacity: 0.7;
+  fill: #0684ff;
+  pointer-events: none;
+}
+.cid-ssHWomIWOc .trans-wave2 {
+  opacity: 0.5;
+  fill: #0684ff;
+  pointer-events: none;
+}
+.cid-ssHWomIWOc .trans-wave3 {
+  opacity: 0.3;
+  fill: #0684ff;
+  pointer-events: none;
+}
+.cid-ssHWomIWOc .dentaura-container {
+  height: 40px;
+  position: relative;
+  width: 100%;
+}
+.cid-ssHWomIWOc .dentaura-y-up {
+  position: absolute;
+  bottom: 39px;
+  left: 0;
+  width: 100%;
+  pointer-events: none;
+}
+.cid-ssHWomIWOc .dentaura-cover {
+  background: transparent;
+  height: 150px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  pointer-events: none;
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+.cid-ssHWomIWOc .dentaura-y-down {
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  width: 100%;
+  pointer-events: none;
+  height: 15vh;
+  min-height: 100px;
+  max-height: 150px;
+}
+.cid-ssHWomIWOc .parallax > use {
+  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5);
+  animation-iteration-count: infinite;
+}
+.cid-ssHWomIWOc .parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.cid-ssHWomIWOc .parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.cid-ssHWomIWOc .parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.cid-ssHWomIWOc .parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+    transform: translate3d(-90px, 0, 0);
+  }
+  100% {
+    transform: translate3d(85px, 0, 0);
+  }
+}
+@media (max-width: 768px) {
+  .cid-ssHWomIWOc .dentaura-y-down {
+    height: 40px;
+    min-height: 40px;
+  }
 }
 .cid-sr920ZhtVT {
   padding-top: 2rem;
