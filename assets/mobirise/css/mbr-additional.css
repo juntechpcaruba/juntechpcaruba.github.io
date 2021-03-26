@@ -12190,19 +12190,19 @@ a {
   -webkit-transform: translateY(-5px) !important;
   transform: translateY(-5px);
 }
-.cid-sg3UlPwTn3 {
+.cid-ssKKQc9H3E {
   padding-top: 7rem;
-  padding-bottom: 4rem;
-  background-image: linear-gradient(135deg, #000000 10%, #353535 100%) !important;
+  padding-bottom: 2rem;
+  background-image: url("../../../assets/images/juntechpc-aruba-computer-services-web-solutions-1-1920x1280.jpg");
 }
-.cid-sg3UlPwTn3 .mbr-text,
-.cid-sg3UlPwTn3 .mbr-section-btn {
+.cid-ssKKQc9H3E .mbr-text,
+.cid-ssKKQc9H3E .mbr-section-btn {
   color: #ffffff;
 }
-.cid-sg3UlPwTn3 .mbr-section-subtitle {
+.cid-ssKKQc9H3E .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-sg3UlPwTn3 .mbr-section-title {
+.cid-ssKKQc9H3E .mbr-section-title {
   color: #0684ff;
 }
 .cid-sg7Y8PKwB9 {
@@ -12253,26 +12253,33 @@ a {
   text-align: center;
   color: #000000;
 }
-.cid-sh6bFVEhi7 {
+.cid-ssKKN1wFgG {
   padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-sh6bFVEhi7 .bg-facebook {
+.cid-ssKKN1wFgG .bg-facebook {
   background: #1778f2;
   color: #ffffff;
 }
-.cid-sh6bFVEhi7 .bg-facebook:hover {
+.cid-ssKKN1wFgG .bg-facebook:hover {
   background: #0b60cb;
 }
-.cid-sh6bFVEhi7 .bg-twitter {
+.cid-ssKKN1wFgG .bg-twitter {
   background: #1da1f2;
   color: #ffffff;
 }
-.cid-sh6bFVEhi7 .bg-twitter:hover {
+.cid-ssKKN1wFgG .bg-twitter:hover {
   background: #0c85d0;
 }
-.cid-sh6bFVEhi7 .iconfont-wrapper {
+.cid-ssKKN1wFgG .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-ssKKN1wFgG .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-ssKKN1wFgG .iconfont-wrapper {
   display: inline-block;
   font-size: 32px;
   border-radius: 50%;
@@ -12282,13 +12289,13 @@ a {
   text-align: center;
   transition: all 0.3s ease-in-out;
 }
-.cid-sh6bFVEhi7 [class^="socicon-"]:before,
-.cid-sh6bFVEhi7 [class*=" socicon-"]:before {
+.cid-ssKKN1wFgG [class^="socicon-"]:before,
+.cid-ssKKN1wFgG [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
 }
-.cid-sh6bFVEhi7 .mbr-section-title,
-.cid-sh6bFVEhi7 .social-list {
+.cid-ssKKN1wFgG .mbr-section-title,
+.cid-ssKKN1wFgG .social-list {
   color: #000000;
 }
 .cid-sg3UsBoc8e {
