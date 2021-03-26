@@ -73,7 +73,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C4Y01HT04Z\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C4Y01HT04Z');\n</script>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\", \n  \"@type\": \"BreadcrumbList\", \n  \"itemListElement\": [{\n    \"@type\": \"ListItem\", \n    \"position\": 1, \n    \"name\": \"JunTechPC - Computer Services and Web Solutions Aruba\",\n    \"item\": \"https://juntechpc.ga/\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 2, \n    \"name\": \"JunTechPC - About Us and What We Do\",\n    \"item\": \"https://juntechpc.ga/about-juntechpc-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 3, \n    \"name\": \"JunTechPC - Services and Support in Aruba\",\n    \"item\": \"https://juntechpc.ga/juntechpc-services-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 4, \n    \"name\": \"JunTechPC - Get Service and Support Today!\",\n    \"item\": \"https://juntechpc.ga/contact-juntechpc-aruba\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 5, \n    \"name\": \"JunTechPC - SUPPORTS YOU DURING COVID-19\",\n    \"item\": \"https://juntechpc.ga/juntechpc-aruba-covid-19\"  \n  }]\n}\n</script>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\",\n  \"@type\": \"Person\",\n  \"name\": \"Juny Engelhart\",\n  \"url\": \"https://juntechpc.ga/about-juntechpc-aruba\",\n  \"image\": \"https://twitter.com/juntechpc/photo\",\n  \"sameAs\": \"https://juntechpc.ga/\",\n  \"jobTitle\": \"Website Designer, Computer Technician\",\n  \"worksFor\": {\n    \"@type\": \"Organization\",\n    \"name\": \"JunTechPC Aruba\"\n  }  \n}\n</script>",
     "publishChangesOnly": true,
-    "mbrsiteDomain": "kwnqlzi2fr",
+    "mbrsiteDomain": "4sbadjteda",
     "witsec-language": "en",
     "witsec-mailform": false,
     "witsec-white-label": true,
@@ -40940,55 +40940,6 @@
               "background-color": "@bg-value"
             },
             "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "[class^=\"socicon-\"]:before, [class*=\" socicon-\"]:before": {
-              "line-height": "55px"
-            },
-            ".btn-social": {
-              "font-size": "32px",
-              "border-radius": "50%",
-              "width": "55px",
-              "height": "55px",
-              "line-height": "55px",
-              "padding": "0",
-              "position": "relative",
-              "cursor": "pointer",
-              "color": "@iconsColor",
-              "border-width": "2px",
-              "transition": "all .3s",
-              "&:hover": {
-                "background": "@iconsColor",
-                "& i.socicon": {
-                  "color": "contrast(@iconsColor) !important"
-                }
-              },
-              "border-color": "@iconsColor"
-            },
-            ".mbr-section-title, .mbr-social-likes": {
-              "color": "#000000"
-            }
-          },
-          "_name": "share2",
-          "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"social2\" group=\"Social\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"SocialLikes,Socicon\">\n    \n     <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#0684ff\">\n        <header>It will share the current page</header>\n        <input type=\"checkbox\" title=\"Facebook\" name=\"facebook\" checked>\n        <input type=\"checkbox\" title=\"Twitter\" name=\"twitter\" checked>\n        <input type=\"checkbox\" title=\"Vkontakte\" name=\"vkontakte\">\n        <input type=\"checkbox\" title=\"Odnoklassniki\" name=\"odnoklassniki\">\n        <input type=\"checkbox\" title=\"Pinterest\" name=\"pinterest\" checked>\n        <input type=\"checkbox\" title=\"Mailru\" name=\"mailru\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\">\n                <h3 class=\"mbr-section-title align-center mb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .mbr-social-likes\">Share Us on Social Media!</h3>\n                <div>\n                    <div class=\"mbr-social-likes align-center\" data-counters=\"false\">\n                        <span mbr-if=\"facebook\" class=\"btn btn-social facebook m-2\" title=\"Share link on Facebook\">\n                            <i class=\"socicon socicon-facebook\"></i>\n                        </span>\n                        <span mbr-if=\"twitter\" class=\"btn btn-social twitter m-2\" title=\"Share link on Twitter\">\n                            <i class=\"socicon socicon-twitter\"></i>\n                        </span>\n                        <span mbr-if=\"vkontakte\" class=\"btn btn-social vkontakte m-2\" title=\"Share link on VKontakte\">\n                            <i class=\"socicon socicon-vkontakte\"></i>\n                        </span>\n                        <span mbr-if=\"odnoklassniki\" class=\"btn btn-social odnoklassniki m-2\" title=\"Share link on Odnoklassniki\">\n                            <i class=\"socicon socicon-odnoklassniki\"></i>\n                        </span>\n                        <span mbr-if=\"pinterest\" class=\"btn btn-social pinterest m-2\" title=\"Share link on Pinterest\">\n                            <i class=\"socicon socicon-pinterest\"></i>\n                        </span>\n                        <span mbr-if=\"mailru\" class=\"btn btn-social mailru m-2\" title=\"Share link on Mailru\">\n                            <i class=\"socicon socicon-mail\"></i>\n                        </span>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "share2-px",
-          "_isUserblock": true,
-          "_cid": "sob3mKCOSa",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)",
               "& when (@overlay)": {
                 ".mbr-overlay": {
@@ -41099,6 +41050,55 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
           "_cid": "sm4ajCDQIo",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "[class^=\"socicon-\"]:before, [class*=\" socicon-\"]:before": {
+              "line-height": "55px"
+            },
+            ".btn-social": {
+              "font-size": "32px",
+              "border-radius": "50%",
+              "width": "55px",
+              "height": "55px",
+              "line-height": "55px",
+              "padding": "0",
+              "position": "relative",
+              "cursor": "pointer",
+              "color": "@iconsColor",
+              "border-width": "2px",
+              "transition": "all .3s",
+              "&:hover": {
+                "background": "@iconsColor",
+                "& i.socicon": {
+                  "color": "contrast(@iconsColor) !important"
+                }
+              },
+              "border-color": "@iconsColor"
+            },
+            ".mbr-section-title, .mbr-social-likes": {
+              "color": "#000000"
+            }
+          },
+          "_name": "share2",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section class=\"social2\" group=\"Social\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"SocialLikes,Socicon\">\n    \n     <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#0684ff\">\n        <header>It will share the current page</header>\n        <input type=\"checkbox\" title=\"Facebook\" name=\"facebook\" checked>\n        <input type=\"checkbox\" title=\"Twitter\" name=\"twitter\" checked>\n        <input type=\"checkbox\" title=\"Vkontakte\" name=\"vkontakte\">\n        <input type=\"checkbox\" title=\"Odnoklassniki\" name=\"odnoklassniki\">\n        <input type=\"checkbox\" title=\"Pinterest\" name=\"pinterest\" checked>\n        <input type=\"checkbox\" title=\"Mailru\" name=\"mailru\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    \n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\">\n                <h3 class=\"mbr-section-title align-center mb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title, .mbr-social-likes\">Share Us on Social Media!</h3>\n                <div>\n                    <div class=\"mbr-social-likes align-center\" data-counters=\"false\">\n                        <span mbr-if=\"facebook\" class=\"btn btn-social facebook m-2\" title=\"Share link on Facebook\">\n                            <i class=\"socicon socicon-facebook\"></i>\n                        </span>\n                        <span mbr-if=\"twitter\" class=\"btn btn-social twitter m-2\" title=\"Share link on Twitter\">\n                            <i class=\"socicon socicon-twitter\"></i>\n                        </span>\n                        <span mbr-if=\"vkontakte\" class=\"btn btn-social vkontakte m-2\" title=\"Share link on VKontakte\">\n                            <i class=\"socicon socicon-vkontakte\"></i>\n                        </span>\n                        <span mbr-if=\"odnoklassniki\" class=\"btn btn-social odnoklassniki m-2\" title=\"Share link on Odnoklassniki\">\n                            <i class=\"socicon socicon-odnoklassniki\"></i>\n                        </span>\n                        <span mbr-if=\"pinterest\" class=\"btn btn-social pinterest m-2\" title=\"Share link on Pinterest\">\n                            <i class=\"socicon socicon-pinterest\"></i>\n                        </span>\n                        <span mbr-if=\"mailru\" class=\"btn btn-social mailru m-2\" title=\"Share link on Mailru\">\n                            <i class=\"socicon socicon-mail\"></i>\n                        </span>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "share2-px",
+          "_isUserblock": true,
+          "_cid": "sob3mKCOSa",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
