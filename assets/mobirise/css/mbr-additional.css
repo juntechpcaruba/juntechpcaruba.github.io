@@ -15382,20 +15382,36 @@ a {
   -webkit-transform: translateY(-5px) !important;
   transform: translateY(-5px);
 }
-.cid-sgYcYhPNRY {
+.cid-ssZM40tYBW {
   padding-top: 7rem;
-  padding-bottom: 7rem;
-  background-image: linear-gradient(135deg, #000000 10%, #353535 100%) !important;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/juntechpc-computer-services-and-web-services-bg-1920x1080.jpg");
 }
-.cid-sgYcYhPNRY .mbr-text,
-.cid-sgYcYhPNRY .mbr-section-btn {
-  color: #ffffff;
+@media (max-width: 991px) {
+  .cid-ssZM40tYBW .image-wrapper {
+    margin-bottom: 2rem;
+  }
 }
-.cid-sgYcYhPNRY .mbr-section-subtitle {
-  color: #ffffff;
+.cid-ssZM40tYBW .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
-.cid-sgYcYhPNRY .mbr-section-title {
+@media (min-width: 992px) {
+  .cid-ssZM40tYBW .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-ssZM40tYBW .text-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-ssZM40tYBW .mbr-section-title {
   color: #0684ff;
+}
+.cid-ssZM40tYBW .mbr-text,
+.cid-ssZM40tYBW .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-soaDwqqBW0 {
   background-color: #0684ff;
@@ -15575,38 +15591,6 @@ a {
   text-align: center;
   color: #000000;
 }
-.cid-sgYROLSy3c {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sgYROLSy3c .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sgYROLSy3c .row {
-  flex-direction: row-reverse;
-}
-.cid-sgYROLSy3c img {
-  width: 100%;
-}
-.cid-smWgjGjAzC {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-smWgjGjAzC .mbr-text {
-  text-align: center;
-}
-.cid-smWgjGjAzC .mbr-section-subtitle {
-  text-align: center;
-  color: #000000;
-}
-.cid-smWgjGjAzC .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
 .cid-sh68WY8Ulz {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -15638,6 +15622,22 @@ a {
 }
 .cid-sh68WY8Ulz .mbr-section-title,
 .cid-sh68WY8Ulz .mbr-social-likes {
+  color: #000000;
+}
+.cid-smWgjGjAzC {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-smWgjGjAzC .mbr-text {
+  text-align: center;
+}
+.cid-smWgjGjAzC .mbr-section-subtitle {
+  text-align: center;
+  color: #000000;
+}
+.cid-smWgjGjAzC .mbr-section-title {
+  text-align: center;
   color: #000000;
 }
 .cid-smWfWbz7bx {
@@ -16426,29 +16426,6 @@ a {
 .cid-sr9bQ20b0k .btn:hover {
   -webkit-transform: translateY(-5px) !important;
   transform: translateY(-5px);
-}
-.cid-srXONKil91 {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-.cid-srXONKil91 ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 2.5rem;
-}
-.cid-srXONKil91 li {
-  position: relative;
-  margin-bottom: 1rem;
-}
-.cid-srXONKil91 ul li::before {
-  position: absolute;
-  left: -1.6rem;
-  content: "\2022";
-  color: #0684ff;
-  font-weight: bold;
-  font-size: 2rem;
-  width: 1.6rem;
 }
 .cid-sh6MdjBjD0 {
   padding-top: 7rem;
@@ -21461,20 +21438,128 @@ a {
   -webkit-transform: translateY(-5px) !important;
   transform: translateY(-5px);
 }
-.cid-shwbqc0GDg {
-  padding-top: 7rem;
-  padding-bottom: 4rem;
-  background-image: linear-gradient(135deg, #000000 10%, #353535 100%) !important;
+.cid-ssZN5Bzv1h {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/juntechpc-computer-services-and-web-services-bg-1920x1080.jpg");
 }
-.cid-shwbqc0GDg .mbr-text,
-.cid-shwbqc0GDg .mbr-section-btn {
-  color: #ffffff;
+@media (max-width: 991px) {
+  .cid-ssZN5Bzv1h .image-wrapper {
+    margin-bottom: 2rem;
+  }
 }
-.cid-shwbqc0GDg .mbr-section-subtitle {
-  color: #ffffff;
+.cid-ssZN5Bzv1h .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
-.cid-shwbqc0GDg .mbr-section-title {
+@media (min-width: 992px) {
+  .cid-ssZN5Bzv1h .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-ssZN5Bzv1h .text-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-ssZN5Bzv1h .mbr-section-title {
   color: #0684ff;
+}
+.cid-ssZN5Bzv1h .mbr-text,
+.cid-ssZN5Bzv1h .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-ssZNwqD4Cp {
+  background-color: #0684ff;
+}
+.cid-ssZNwqD4Cp .trans-wave {
+  opacity: 1;
+  fill: #0684ff;
+  pointer-events: none;
+}
+.cid-ssZNwqD4Cp .trans-wave1 {
+  opacity: 0.7;
+  fill: #0684ff;
+  pointer-events: none;
+}
+.cid-ssZNwqD4Cp .trans-wave2 {
+  opacity: 0.5;
+  fill: #0684ff;
+  pointer-events: none;
+}
+.cid-ssZNwqD4Cp .trans-wave3 {
+  opacity: 0.3;
+  fill: #0684ff;
+  pointer-events: none;
+}
+.cid-ssZNwqD4Cp .dentaura-container {
+  height: 40px;
+  position: relative;
+  width: 100%;
+}
+.cid-ssZNwqD4Cp .dentaura-y-up {
+  position: absolute;
+  bottom: 39px;
+  left: 0;
+  width: 100%;
+  pointer-events: none;
+}
+.cid-ssZNwqD4Cp .dentaura-cover {
+  background: transparent;
+  height: 150px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  pointer-events: none;
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+.cid-ssZNwqD4Cp .dentaura-y-down {
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  width: 100%;
+  pointer-events: none;
+  height: 15vh;
+  min-height: 100px;
+  max-height: 150px;
+}
+.cid-ssZNwqD4Cp .parallax > use {
+  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5);
+  animation-iteration-count: infinite;
+}
+.cid-ssZNwqD4Cp .parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.cid-ssZNwqD4Cp .parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.cid-ssZNwqD4Cp .parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.cid-ssZNwqD4Cp .parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+    transform: translate3d(-90px, 0, 0);
+  }
+  100% {
+    transform: translate3d(85px, 0, 0);
+  }
+}
+@media (max-width: 768px) {
+  .cid-ssZNwqD4Cp .dentaura-y-down {
+    height: 40px;
+    min-height: 40px;
+  }
 }
 .cid-shwbCx0s7Q {
   padding-top: 2rem;
@@ -21492,26 +21577,33 @@ a {
   text-align: center;
   color: #000000;
 }
-.cid-shASU1y84N {
+.cid-ssZNmPXZdk {
   padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-shASU1y84N .bg-facebook {
+.cid-ssZNmPXZdk .bg-facebook {
   background: #1778f2;
   color: #ffffff;
 }
-.cid-shASU1y84N .bg-facebook:hover {
+.cid-ssZNmPXZdk .bg-facebook:hover {
   background: #0b60cb;
 }
-.cid-shASU1y84N .bg-twitter {
+.cid-ssZNmPXZdk .bg-twitter {
   background: #1da1f2;
   color: #ffffff;
 }
-.cid-shASU1y84N .bg-twitter:hover {
+.cid-ssZNmPXZdk .bg-twitter:hover {
   background: #0c85d0;
 }
-.cid-shASU1y84N .iconfont-wrapper {
+.cid-ssZNmPXZdk .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-ssZNmPXZdk .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-ssZNmPXZdk .iconfont-wrapper {
   display: inline-block;
   font-size: 32px;
   border-radius: 50%;
@@ -21521,13 +21613,13 @@ a {
   text-align: center;
   transition: all 0.3s ease-in-out;
 }
-.cid-shASU1y84N [class^="socicon-"]:before,
-.cid-shASU1y84N [class*=" socicon-"]:before {
+.cid-ssZNmPXZdk [class^="socicon-"]:before,
+.cid-ssZNmPXZdk [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
 }
-.cid-shASU1y84N .mbr-section-title,
-.cid-shASU1y84N .social-list {
+.cid-ssZNmPXZdk .mbr-section-title,
+.cid-ssZNmPXZdk .social-list {
   color: #000000;
 }
 .cid-smWeCCaO4J {
@@ -21543,38 +21635,6 @@ a {
   color: #000000;
 }
 .cid-smWeCCaO4J .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
-.cid-shAVvfNkUn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-shAVvfNkUn .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-shAVvfNkUn .row {
-  flex-direction: row-reverse;
-}
-.cid-shAVvfNkUn img {
-  width: 100%;
-}
-.cid-shAAJjURXo {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-shAAJjURXo .mbr-text {
-  text-align: center;
-}
-.cid-shAAJjURXo .mbr-section-subtitle {
-  text-align: center;
-  color: #000000;
-}
-.cid-shAAJjURXo .mbr-section-title {
   text-align: center;
   color: #000000;
 }
@@ -21609,6 +21669,22 @@ a {
 }
 .cid-shASSdrs1u .mbr-section-title,
 .cid-shASSdrs1u .mbr-social-likes {
+  color: #000000;
+}
+.cid-shAAJjURXo {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-shAAJjURXo .mbr-text {
+  text-align: center;
+}
+.cid-shAAJjURXo .mbr-section-subtitle {
+  text-align: center;
+  color: #000000;
+}
+.cid-shAAJjURXo .mbr-section-title {
+  text-align: center;
   color: #000000;
 }
 .cid-shwbBquBGu {
