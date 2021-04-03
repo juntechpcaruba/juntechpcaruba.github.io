@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JunTechPC Aruba",
-    "currentPage": "on-page-off-page-seo-services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -13,7 +13,7 @@
         "warningColor": "#232323",
         "dangerColor": "#000000",
         "mainFont": "Jost",
-        "display1Font": "good times rg",
+        "display1Font": "GOODTIME",
         "display1Size": "4.0",
         "display2Font": "Jost",
         "display2Size": "2.0",
@@ -52,6 +52,12 @@
         "css": "'Jost', sans-serif",
         "name": "Jost",
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'GOODTIME'",
+        "name": "GOODTIME",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/GOODTIME/font.ttf"
       }
     ],
     "imageResize": true,
@@ -73,7 +79,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C4Y01HT04Z\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C4Y01HT04Z');\n</script>",
     "publishChangesOnly": true,
-    "mbrsiteDomain": "9qkju1yitt",
+    "mbrsiteDomain": "urlpixkgl8",
     "witsec-language": "en",
     "witsec-mailform": false,
     "witsec-white-label": true,
