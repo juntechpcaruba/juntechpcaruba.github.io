@@ -11,11 +11,11 @@ body {
 }
 .display-1 {
   font-family: 'GOODTIME';
-  font-size: 4rem;
+  font-size: 4.5rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5rem;
+  font-size: 5.625rem;
 }
 .display-2 {
   font-family: 'Jost', sans-serif;
@@ -56,14 +56,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.2rem;
+    font-size: 3.6rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.8rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.15rem;
+    font-size: calc( 2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.6rem;
@@ -690,38 +690,27 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-ssxeZtKrsz {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+.cid-stGPJXP0OP {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
   background-image: url("../../../assets/images/juntechpc-computer-services-and-web-services-bg-1920x1080.jpg");
 }
-@media (max-width: 991px) {
-  .cid-ssxeZtKrsz .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-ssxeZtKrsz .image-wrapper img {
+.cid-stGPJXP0OP .image-wrap img {
   width: 100%;
-  object-fit: cover;
 }
 @media (min-width: 992px) {
-  .cid-ssxeZtKrsz .text-wrapper {
-    padding: 0 2rem;
+  .cid-stGPJXP0OP .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 20%;
   }
 }
-@media (max-width: 768px) {
-  .cid-ssxeZtKrsz .text-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-ssxeZtKrsz .mbr-section-title {
+.cid-stGPJXP0OP .mbr-section-title {
   color: #0684ff;
-  text-align: left;
 }
-.cid-ssxeZtKrsz .mbr-text,
-.cid-ssxeZtKrsz .mbr-section-btn {
+.cid-stGPJXP0OP .mbr-text,
+.cid-stGPJXP0OP .mbr-section-btn {
   color: #ffffff;
-  text-align: left;
 }
 .cid-soazYoGgY5 {
   background-color: #0684ff;
