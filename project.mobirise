@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JunTechPC Aruba",
-    "currentPage": "index.html",
+    "currentPage": "privacy-policy.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -55,7 +55,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 1290,
+    "uniqCompNum": 1291,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -73,7 +73,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C4Y01HT04Z\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C4Y01HT04Z');\n</script>",
     "publishChangesOnly": true,
-    "mbrsiteDomain": "mzg6iz6qbq",
+    "mbrsiteDomain": "e2k4t8brv8",
     "witsec-language": "en",
     "witsec-mailform": false,
     "witsec-white-label": true,
@@ -143,10 +143,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -1808,10 +1810,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -3525,10 +3529,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -5160,10 +5166,11 @@
             },
             ".mbr-section-title": {
               "color": "#0684ff",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -8240,10 +8247,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -10957,10 +10966,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -13414,10 +13425,11 @@
             },
             ".mbr-section-title": {
               "color": "#0684ff",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -15100,10 +15112,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -16785,10 +16799,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -20146,10 +20162,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -21831,10 +21849,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -23465,10 +23485,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -25123,10 +25145,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -26840,10 +26864,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -30259,10 +30285,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -31889,10 +31917,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -33487,10 +33517,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -36913,10 +36945,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -36925,141 +36959,6 @@
           "_anchor": "header14-uk",
           "_isUserblock": true,
           "_cid": "sshW00UVm1",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_name": "divider18",
-          "_sourceTheme": "dentauram4",
-          "_styles": {
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".trans-wave": {
-              "opacity": "1",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave1": {
-              "opacity": "0.7",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave2": {
-              "opacity": "0.5",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave3": {
-              "opacity": "0.3",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".dentaura-container": {
-              "height": "40px",
-              "position": "relative",
-              "width": "100%"
-            },
-            ".dentaura-y-up": {
-              "position": "absolute",
-              "& when (@flipVerti = false)": {
-                "bottom": "39px"
-              },
-              "& when (@flipVerti)": {
-                "top": "39px",
-                "z-index": "@zindexOrderverti"
-              },
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none"
-            },
-            ".dentaura-cover": {
-              "background": "transparent",
-              "height": "(@heightWavecover * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "overflow": "hidden",
-              "pointer-events": "none",
-              "& when (@flipVerti)": {
-                "-webkit-transform": "rotateX(180deg)",
-                "-moz-transform": "rotateX(180deg)",
-                "-o-transform": "rotateX(180deg)",
-                "-ms-transform": "rotateX(180deg)",
-                "transform": "rotateX(180deg)",
-                "& when (@flipDownHori)": {
-                  "-webkit-transform": "rotate(180deg)",
-                  "-moz-transform": "rotate(180deg)",
-                  "-o-transform": "rotate(180deg)",
-                  "-ms-transform": "rotate(180deg)",
-                  "transform": "rotate(180deg)"
-                }
-              },
-              "& when (@flipVerti = false)": {
-                "& when (@flipUpHori)": {
-                  "-webkit-transform": "rotateY(180deg)",
-                  "-moz-transform": "rotateY(180deg)",
-                  "-o-transform": "rotateY(180deg)",
-                  "-ms-transform": "rotateY(180deg)",
-                  "transform": "rotateY(180deg)"
-                }
-              }
-            },
-            ".dentaura-y-down": {
-              "position": "absolute",
-              "bottom": "0px",
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none",
-              "height": "15vh",
-              "min-height": "100px",
-              "max-height": "150px"
-            },
-            ".parallax > use": {
-              "animation": "move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5)",
-              "& when (@infiniteAnimation)": {
-                "animation-iteration-count": "infinite"
-              },
-              "& when (@infiniteAnimation = false)": {
-                "animation-iteration-count": "(@countAnimation * 1)"
-              }
-            },
-            ".parallax > use:nth-child(1)": {
-              "animation-delay": "-2s",
-              "animation-duration": "7s"
-            },
-            ".parallax > use:nth-child(2)": {
-              "animation-delay": "-3s",
-              "animation-duration": "10s"
-            },
-            ".parallax > use:nth-child(3)": {
-              "animation-delay": "-4s",
-              "animation-duration": "13s"
-            },
-            ".parallax > use:nth-child(4)": {
-              "animation-delay": "-5s",
-              "animation-duration": "20s"
-            },
-            "@keyframes move-forever": {
-              "0%": {
-                "transform": "translate3d(-90px, 0, 0)"
-              },
-              "100%": {
-                "transform": "translate3d(85px, 0, 0)"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".dentaura-y-down": {
-                "height": "40px",
-                "min-height": "40px"
-              }
-            }
-          },
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-p0",
-          "_isUserblock": true,
-          "_cid": "soaBLQr6TW",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -40347,141 +40246,6 @@
           "_params": {}
         },
         {
-          "_name": "divider18",
-          "_sourceTheme": "dentauram4",
-          "_styles": {
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".trans-wave": {
-              "opacity": "1",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave1": {
-              "opacity": "0.7",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave2": {
-              "opacity": "0.5",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave3": {
-              "opacity": "0.3",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".dentaura-container": {
-              "height": "40px",
-              "position": "relative",
-              "width": "100%"
-            },
-            ".dentaura-y-up": {
-              "position": "absolute",
-              "& when (@flipVerti = false)": {
-                "bottom": "39px"
-              },
-              "& when (@flipVerti)": {
-                "top": "39px",
-                "z-index": "@zindexOrderverti"
-              },
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none"
-            },
-            ".dentaura-cover": {
-              "background": "transparent",
-              "height": "(@heightWavecover * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "overflow": "hidden",
-              "pointer-events": "none",
-              "& when (@flipVerti)": {
-                "-webkit-transform": "rotateX(180deg)",
-                "-moz-transform": "rotateX(180deg)",
-                "-o-transform": "rotateX(180deg)",
-                "-ms-transform": "rotateX(180deg)",
-                "transform": "rotateX(180deg)",
-                "& when (@flipDownHori)": {
-                  "-webkit-transform": "rotate(180deg)",
-                  "-moz-transform": "rotate(180deg)",
-                  "-o-transform": "rotate(180deg)",
-                  "-ms-transform": "rotate(180deg)",
-                  "transform": "rotate(180deg)"
-                }
-              },
-              "& when (@flipVerti = false)": {
-                "& when (@flipUpHori)": {
-                  "-webkit-transform": "rotateY(180deg)",
-                  "-moz-transform": "rotateY(180deg)",
-                  "-o-transform": "rotateY(180deg)",
-                  "-ms-transform": "rotateY(180deg)",
-                  "transform": "rotateY(180deg)"
-                }
-              }
-            },
-            ".dentaura-y-down": {
-              "position": "absolute",
-              "bottom": "0px",
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none",
-              "height": "15vh",
-              "min-height": "100px",
-              "max-height": "150px"
-            },
-            ".parallax > use": {
-              "animation": "move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5)",
-              "& when (@infiniteAnimation)": {
-                "animation-iteration-count": "infinite"
-              },
-              "& when (@infiniteAnimation = false)": {
-                "animation-iteration-count": "(@countAnimation * 1)"
-              }
-            },
-            ".parallax > use:nth-child(1)": {
-              "animation-delay": "-2s",
-              "animation-duration": "7s"
-            },
-            ".parallax > use:nth-child(2)": {
-              "animation-delay": "-3s",
-              "animation-duration": "10s"
-            },
-            ".parallax > use:nth-child(3)": {
-              "animation-delay": "-4s",
-              "animation-duration": "13s"
-            },
-            ".parallax > use:nth-child(4)": {
-              "animation-delay": "-5s",
-              "animation-duration": "20s"
-            },
-            "@keyframes move-forever": {
-              "0%": {
-                "transform": "translate3d(-90px, 0, 0)"
-              },
-              "100%": {
-                "transform": "translate3d(85px, 0, 0)"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".dentaura-y-down": {
-                "height": "40px",
-                "min-height": "40px"
-              }
-            }
-          },
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-oy",
-          "_isUserblock": true,
-          "_cid": "soaBiUgbrp",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
           "alias": false,
           "_styles": {
             "& when not (@fullScreen)": {
@@ -41966,10 +41730,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -43746,10 +43512,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -43889,9 +43657,9 @@
             }
           },
           "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-pn",
+          "_anchor": "divider18-zu",
           "_isUserblock": true,
-          "_cid": "soaDZeLdVD",
+          "_cid": "su28cIQZyT",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -45587,10 +45355,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -45599,141 +45369,6 @@
           "_anchor": "header14-ul",
           "_isUserblock": true,
           "_cid": "sshW8z9NPV",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_name": "divider18",
-          "_sourceTheme": "dentauram4",
-          "_styles": {
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            ".trans-wave": {
-              "opacity": "1",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave1": {
-              "opacity": "0.7",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave2": {
-              "opacity": "0.5",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".trans-wave3": {
-              "opacity": "0.3",
-              "fill": "@bg-value",
-              "pointer-events": "none"
-            },
-            ".dentaura-container": {
-              "height": "40px",
-              "position": "relative",
-              "width": "100%"
-            },
-            ".dentaura-y-up": {
-              "position": "absolute",
-              "& when (@flipVerti = false)": {
-                "bottom": "39px"
-              },
-              "& when (@flipVerti)": {
-                "top": "39px",
-                "z-index": "@zindexOrderverti"
-              },
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none"
-            },
-            ".dentaura-cover": {
-              "background": "transparent",
-              "height": "(@heightWavecover * 1px)",
-              "width": "100%",
-              "position": "relative",
-              "overflow": "hidden",
-              "pointer-events": "none",
-              "& when (@flipVerti)": {
-                "-webkit-transform": "rotateX(180deg)",
-                "-moz-transform": "rotateX(180deg)",
-                "-o-transform": "rotateX(180deg)",
-                "-ms-transform": "rotateX(180deg)",
-                "transform": "rotateX(180deg)",
-                "& when (@flipDownHori)": {
-                  "-webkit-transform": "rotate(180deg)",
-                  "-moz-transform": "rotate(180deg)",
-                  "-o-transform": "rotate(180deg)",
-                  "-ms-transform": "rotate(180deg)",
-                  "transform": "rotate(180deg)"
-                }
-              },
-              "& when (@flipVerti = false)": {
-                "& when (@flipUpHori)": {
-                  "-webkit-transform": "rotateY(180deg)",
-                  "-moz-transform": "rotateY(180deg)",
-                  "-o-transform": "rotateY(180deg)",
-                  "-ms-transform": "rotateY(180deg)",
-                  "transform": "rotateY(180deg)"
-                }
-              }
-            },
-            ".dentaura-y-down": {
-              "position": "absolute",
-              "bottom": "0px",
-              "left": "0",
-              "width": "100%",
-              "pointer-events": "none",
-              "height": "15vh",
-              "min-height": "100px",
-              "max-height": "150px"
-            },
-            ".parallax > use": {
-              "animation": "move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5)",
-              "& when (@infiniteAnimation)": {
-                "animation-iteration-count": "infinite"
-              },
-              "& when (@infiniteAnimation = false)": {
-                "animation-iteration-count": "(@countAnimation * 1)"
-              }
-            },
-            ".parallax > use:nth-child(1)": {
-              "animation-delay": "-2s",
-              "animation-duration": "7s"
-            },
-            ".parallax > use:nth-child(2)": {
-              "animation-delay": "-3s",
-              "animation-duration": "10s"
-            },
-            ".parallax > use:nth-child(3)": {
-              "animation-delay": "-4s",
-              "animation-duration": "13s"
-            },
-            ".parallax > use:nth-child(4)": {
-              "animation-delay": "-5s",
-              "animation-duration": "20s"
-            },
-            "@keyframes move-forever": {
-              "0%": {
-                "transform": "translate3d(-90px, 0, 0)"
-              },
-              "100%": {
-                "transform": "translate3d(85px, 0, 0)"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".dentaura-y-down": {
-                "height": "40px",
-                "min-height": "40px"
-              }
-            }
-          },
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>DIVIDER</header>        \n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"color\" title=\"Divider Color\" value=\"#0684ff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Flip Vertical\" name=\"flipVerti\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipUpHori\" condition=\"flipVerti == false\" checked=\"\">\n        <input type=\"checkbox\" title=\"Flip Horizontal\" name=\"flipDownHori\" condition=\"flipVerti\" checked=\"\">\n        <header>BLOCK ORDER (applicable when flipped downwards and when used in combination with other dividers)</header>\n        <input type=\"range\" inline=\"\" title=\"Move backwards or forwards\" name=\"zindexOrderverti\" min=\"1\" max=\"500\" step=\"1\" value=\"1\" condition=\"flipVerti\">\n        <header>ANIMATION</header>\n        <input type=\"checkbox\" title=\"Infinite Animation\" name=\"infiniteAnimation\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Iteration Count (Animation stops after the iteration count and will restart only after a page refresh)\" name=\"countAnimation\" min=\"5\" max=\"500\" step=\"1\" value=\"20\" condition=\"infiniteAnimation == false\">\n        <header>Wave Cover</header>\n        <input type=\"range\" inline=\"\" title=\"Wave Cover height to avoid wave getting cut off\" name=\"heightWavecover\" min=\"150\" max=\"500\" step=\"1\" value=\"150\">\n        <header>NOTE:</header>\n        <header>Adjust height of blocks overlapped accordingly to accommodate this wave divider. Use only in suitable situations (eg: not suitable for small footer blocks). Minimum overlapping height of this block is 150px. Animated wave dividers may not work in all browsers like IE. However, it has been checked and verified as working in all major recent browsers.</header>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"dentaura-container\">\n        <div class=\"dentaura-y-up\">\n            <div class=\"dentaura-cover\">\n                <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 24 150 28\" preserveAspectRatio=\"none\" shape-rendering=\"auto\" class=\"dentaura-y-down\">\n                <defs>\n                <path id=\"gentle-wave\" d=\"M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z\"></path>\n                </defs>\n                <g class=\"parallax\">\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"0\" class=\"trans-wave1\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"3\" class=\"trans-wave2\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"5\" class=\"trans-wave3\"></use>\n\t\t\t\t\t<use xlink:href=\"#gentle-wave\" x=\"48\" y=\"7\" class=\"trans-wave\"></use>\n                </g>\n                </svg>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "divider18-oz",
-          "_isUserblock": true,
-          "_cid": "soaBn2RYpX",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -49033,10 +48668,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -50486,10 +50123,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
@@ -52182,10 +51821,12 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#0684ff"
+              "color": "#0684ff",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header14",
