@@ -685,27 +685,35 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-stGPJXP0OP {
+.cid-su1XfP1gCB {
   padding-top: 6rem;
-  padding-bottom: 7rem;
+  padding-bottom: 5rem;
   background-image: url("../../../assets/images/juntechpc-computer-services-and-web-services-bg-1920x1080.jpg");
 }
-.cid-stGPJXP0OP .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-stGPJXP0OP .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 10%;
+@media (max-width: 991px) {
+  .cid-su1XfP1gCB .image-wrapper {
+    margin-bottom: 2rem;
   }
 }
-.cid-stGPJXP0OP .mbr-section-title {
-  color: #0684ff;
-  text-align: center;
+.cid-su1XfP1gCB .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
 }
-.cid-stGPJXP0OP .mbr-text,
-.cid-stGPJXP0OP .mbr-section-btn {
+@media (min-width: 992px) {
+  .cid-su1XfP1gCB .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-su1XfP1gCB .text-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-su1XfP1gCB .mbr-section-title {
+  color: #0684ff;
+}
+.cid-su1XfP1gCB .mbr-text,
+.cid-su1XfP1gCB .mbr-section-btn {
   color: #ffffff;
 }
 .cid-soazYoGgY5 {
