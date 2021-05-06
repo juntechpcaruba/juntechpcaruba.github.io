@@ -1,2 +1,3 @@
+Sitemap: https://juntechpc.ga/sitemap.xml
 User-agent: *
-Disallow: /cgi-bin
+User-agent: Twitterbot
